@@ -1,0 +1,3211 @@
+17/03/2026 10:55:51,85 
+Reply from 10.35.17.26: bytes=32 time=202ms TTL=127
+17/03/2026 10:56:49,83 
+Reply from 10.35.17.26: bytes=32 time=226ms TTL=127
+17/03/2026 10:57:50,17 
+Reply from 10.35.17.26: bytes=32 time=571ms TTL=127
+17/03/2026 10:58:50,21 
+Reply from 10.35.17.26: bytes=32 time=39ms TTL=127
+17/03/2026 10:59:50,22 
+Reply from 10.35.17.26: bytes=32 time=341ms TTL=127
+17/03/2026 11:00:50,15 
+Reply from 10.35.17.26: bytes=32 time=64ms TTL=127
+17/03/2026 11:01:50,12 
+Reply from 10.35.17.26: bytes=32 time=331ms TTL=127
+17/03/2026 11:02:50,20 
+Reply from 10.35.17.26: bytes=32 time=25ms TTL=127
+17/03/2026 11:03:50,13 
+Reply from 10.35.17.26: bytes=32 time=35ms TTL=127
+17/03/2026 11:04:50,21 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+17/03/2026 11:05:50,11 
+Reply from 10.35.17.26: bytes=32 time=68ms TTL=127
+17/03/2026 11:06:50,18 
+Reply from 10.35.17.26: bytes=32 time=13ms TTL=127
+17/03/2026 11:07:50,19 
+Reply from 10.35.17.26: bytes=32 time=241ms TTL=127
+17/03/2026 11:08:50,14 
+Reply from 10.35.17.26: bytes=32 time=73ms TTL=127
+17/03/2026 11:09:50,19 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+17/03/2026 11:10:50,14 
+Reply from 10.35.17.26: bytes=32 time=31ms TTL=127
+17/03/2026 11:11:50,19 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+17/03/2026 11:12:50,19 
+Reply from 10.35.17.26: bytes=32 time=33ms TTL=127
+17/03/2026 11:13:50,13 
+Reply from 10.35.17.26: bytes=32 time=75ms TTL=127
+17/03/2026 11:14:50,14 
+Reply from 10.35.17.26: bytes=32 time=17ms TTL=127
+17/03/2026 11:15:50,13 
+Reply from 10.35.17.26: bytes=32 time=25ms TTL=127
+17/03/2026 11:16:50,20 
+Reply from 10.35.17.26: bytes=32 time=138ms TTL=127
+17/03/2026 11:17:50,18 
+17/03/2026 11:18:53,12 
+Reply from 10.35.17.26: bytes=32 time=251ms TTL=127
+17/03/2026 11:19:53,12 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+17/03/2026 11:20:53,21 
+Reply from 10.35.17.26: bytes=32 time=77ms TTL=127
+17/03/2026 11:21:53,13 
+Reply from 10.35.17.26: bytes=32 time=46ms TTL=127
+17/03/2026 11:22:53,18 
+Reply from 10.35.17.26: bytes=32 time=22ms TTL=127
+17/03/2026 11:23:53,10 
+17/03/2026 11:24:56,17 
+Reply from 10.35.17.26: bytes=32 time=252ms TTL=127
+17/03/2026 11:25:56,18 
+Reply from 10.35.17.26: bytes=32 time=70ms TTL=127
+17/03/2026 11:26:56,17 
+Reply from 10.35.17.26: bytes=32 time=18ms TTL=127
+17/03/2026 11:27:56,19 
+Reply from 10.35.17.26: bytes=32 time=20ms TTL=127
+17/03/2026 11:28:56,17 
+Reply from 10.35.17.26: bytes=32 time=325ms TTL=127
+17/03/2026 11:29:56,13 
+Reply from 10.35.17.26: bytes=32 time=30ms TTL=127
+17/03/2026 11:30:56,14 
+Reply from 10.35.17.26: bytes=32 time=24ms TTL=127
+17/03/2026 11:31:56,18 
+Reply from 10.35.17.26: bytes=32 time=50ms TTL=127
+17/03/2026 11:32:56,13 
+Reply from 10.35.17.26: bytes=32 time=101ms TTL=127
+17/03/2026 11:33:56,20 
+Reply from 10.35.17.26: bytes=32 time=13ms TTL=127
+17/03/2026 11:34:56,19 
+Reply from 10.35.17.26: bytes=32 time=74ms TTL=127
+17/03/2026 11:35:56,18 
+Reply from 10.35.17.26: bytes=32 time=292ms TTL=127
+17/03/2026 11:36:56,19 
+Reply from 10.35.17.26: bytes=32 time=143ms TTL=127
+17/03/2026 11:37:56,14 
+Reply from 10.35.17.26: bytes=32 time=833ms TTL=127
+17/03/2026 11:38:57,15 
+Reply from 10.35.17.26: bytes=32 time=13ms TTL=127
+17/03/2026 11:39:57,18 
+Reply from 10.35.17.26: bytes=32 time=171ms TTL=127
+17/03/2026 11:40:57,21 
+Reply from 10.35.17.26: bytes=32 time=17ms TTL=127
+17/03/2026 11:41:57,21 
+Reply from 10.35.17.26: bytes=32 time=210ms TTL=127
+17/03/2026 11:42:57,22 
+17/03/2026 11:44:01,18 
+Reply from 10.35.17.26: bytes=32 time=279ms TTL=127
+17/03/2026 11:45:01,15 
+Reply from 10.35.17.26: bytes=32 time=27ms TTL=127
+17/03/2026 11:46:01,14 
+Reply from 10.35.17.26: bytes=32 time=14ms TTL=127
+17/03/2026 11:47:01,17 
+Reply from 10.35.17.26: bytes=32 time=16ms TTL=127
+17/03/2026 11:48:01,18 
+Reply from 10.35.17.26: bytes=32 time=243ms TTL=127
+17/03/2026 11:49:01,12 
+Reply from 10.35.17.26: bytes=32 time=38ms TTL=127
+17/03/2026 11:50:01,18 
+Reply from 10.35.17.26: bytes=32 time=25ms TTL=127
+17/03/2026 11:51:01,21 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+17/03/2026 11:52:01,19 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+17/03/2026 11:53:01,17 
+Reply from 10.35.17.26: bytes=32 time=26ms TTL=127
+17/03/2026 11:54:01,17 
+Reply from 10.35.17.26: bytes=32 time=13ms TTL=127
+17/03/2026 11:55:01,15 
+Reply from 10.35.17.26: bytes=32 time=15ms TTL=127
+17/03/2026 11:56:01,21 
+Reply from 10.35.17.26: bytes=32 time=22ms TTL=127
+17/03/2026 11:57:01,15 
+Reply from 10.35.17.26: bytes=32 time=20ms TTL=127
+17/03/2026 11:58:01,15 
+Reply from 10.35.17.26: bytes=32 time=11ms TTL=127
+17/03/2026 11:59:01,11 
+Reply from 10.35.17.26: bytes=32 time=13ms TTL=127
+17/03/2026 12:00:01,15 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+17/03/2026 12:01:01,21 
+Reply from 10.35.17.26: bytes=32 time=15ms TTL=127
+17/03/2026 12:02:01,22 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+17/03/2026 12:03:01,17 
+Reply from 10.35.17.26: bytes=32 time=14ms TTL=127
+17/03/2026 12:04:01,11 
+Reply from 10.35.17.26: bytes=32 time=14ms TTL=127
+17/03/2026 12:05:01,18 
+Reply from 10.35.17.26: bytes=32 time=11ms TTL=127
+17/03/2026 12:06:01,14 
+Reply from 10.35.17.26: bytes=32 time=14ms TTL=127
+17/03/2026 12:07:01,15 
+Reply from 10.35.17.26: bytes=32 time=11ms TTL=127
+17/03/2026 12:08:01,11 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+17/03/2026 12:09:01,15 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+17/03/2026 12:10:01,20 
+Reply from 10.35.17.26: bytes=32 time=15ms TTL=127
+17/03/2026 12:11:01,20 
+Reply from 10.35.17.26: bytes=32 time=11ms TTL=127
+17/03/2026 12:12:01,14 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+17/03/2026 12:13:01,14 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+17/03/2026 12:14:01,21 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+17/03/2026 12:15:01,20 
+Reply from 10.35.17.26: bytes=32 time=21ms TTL=127
+17/03/2026 12:16:01,13 
+Reply from 10.35.17.26: bytes=32 time=15ms TTL=127
+17/03/2026 12:17:01,14 
+Reply from 10.35.17.26: bytes=32 time=18ms TTL=127
+17/03/2026 12:18:01,19 
+Reply from 10.35.17.26: bytes=32 time=13ms TTL=127
+17/03/2026 12:19:01,20 
+Reply from 10.35.17.26: bytes=32 time=10ms TTL=127
+17/03/2026 12:20:01,21 
+Reply from 10.35.17.26: bytes=32 time=22ms TTL=127
+17/03/2026 12:21:01,19 
+Reply from 10.35.17.26: bytes=32 time=13ms TTL=127
+17/03/2026 12:22:01,20 
+Reply from 10.35.17.26: bytes=32 time=11ms TTL=127
+17/03/2026 12:23:01,19 
+Reply from 10.35.17.26: bytes=32 time=11ms TTL=127
+17/03/2026 12:24:01,13 
+Reply from 10.35.17.26: bytes=32 time=13ms TTL=127
+17/03/2026 12:25:01,17 
+Reply from 10.35.17.26: bytes=32 time=13ms TTL=127
+17/03/2026 12:26:01,13 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+17/03/2026 12:27:01,13 
+Reply from 10.35.17.26: bytes=32 time=11ms TTL=127
+17/03/2026 12:28:01,12 
+Reply from 10.35.17.26: bytes=32 time=21ms TTL=127
+17/03/2026 12:29:01,12 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+17/03/2026 12:30:01,11 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+17/03/2026 12:31:01,13 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+17/03/2026 12:32:01,18 
+Reply from 10.35.17.26: bytes=32 time=25ms TTL=127
+17/03/2026 12:33:01,14 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+17/03/2026 12:34:01,15 
+Reply from 10.35.17.26: bytes=32 time=14ms TTL=127
+17/03/2026 12:35:01,17 
+Reply from 10.35.17.26: bytes=32 time=15ms TTL=127
+17/03/2026 12:36:01,14 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+17/03/2026 12:37:01,12 
+Reply from 10.35.17.26: bytes=32 time=17ms TTL=127
+17/03/2026 12:38:01,15 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+17/03/2026 12:39:01,19 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+25/03/2026  7:27:22,31 
+Reply from 10.35.17.26: bytes=32 time=203ms TTL=127
+25/03/2026  7:28:22,17 
+Reply from 10.35.17.26: bytes=32 time=65ms TTL=127
+25/03/2026  7:29:22,13 
+Reply from 10.35.17.26: bytes=32 time=13ms TTL=127
+25/03/2026  7:30:22,19 
+Reply from 10.35.17.26: bytes=32 time=19ms TTL=127
+25/03/2026  7:31:22,20 
+Reply from 10.35.17.26: bytes=32 time=90ms TTL=127
+25/03/2026  7:32:22,16 
+Reply from 10.35.17.26: bytes=32 time=98ms TTL=127
+25/03/2026  7:33:22,20 
+Reply from 10.35.17.26: bytes=32 time=162ms TTL=127
+25/03/2026  7:34:22,20 
+Reply from 10.35.17.26: bytes=32 time=121ms TTL=127
+25/03/2026  7:35:22,21 
+Reply from 10.35.17.26: bytes=32 time=30ms TTL=127
+25/03/2026  7:36:22,16 
+Reply from 10.35.17.26: bytes=32 time=108ms TTL=127
+25/03/2026  7:37:22,16 
+Reply from 10.35.17.26: bytes=32 time=85ms TTL=127
+25/03/2026  7:38:22,16 
+Reply from 10.35.17.26: bytes=32 time=139ms TTL=127
+25/03/2026  7:39:22,18 
+Reply from 10.35.17.26: bytes=32 time=113ms TTL=127
+25/03/2026  7:40:22,21 
+Reply from 10.35.17.26: bytes=32 time=207ms TTL=127
+25/03/2026  7:41:22,14 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+25/03/2026  7:42:22,12 
+Reply from 10.35.17.26: bytes=32 time=290ms TTL=127
+25/03/2026  7:43:22,13 
+Reply from 10.35.17.26: bytes=32 time=98ms TTL=127
+25/03/2026  7:44:22,22 
+Reply from 10.35.17.26: bytes=32 time=13ms TTL=127
+25/03/2026  7:45:22,11 
+Reply from 10.35.17.26: bytes=32 time=130ms TTL=127
+25/03/2026  7:46:22,12 
+Reply from 10.35.17.26: bytes=32 time=16ms TTL=127
+25/03/2026  7:47:22,17 
+Reply from 10.35.17.26: bytes=32 time=118ms TTL=127
+25/03/2026  7:48:22,17 
+Reply from 10.35.17.26: bytes=32 time=519ms TTL=127
+25/03/2026  7:49:22,18 
+Reply from 10.35.17.26: bytes=32 time=388ms TTL=127
+25/03/2026  7:50:22,15 
+Reply from 10.35.17.26: bytes=32 time=233ms TTL=127
+25/03/2026  7:51:22,16 
+Reply from 10.35.17.26: bytes=32 time=137ms TTL=127
+25/03/2026  7:52:22,16 
+Reply from 10.35.17.26: bytes=32 time=13ms TTL=127
+25/03/2026  7:53:22,19 
+Reply from 10.35.17.26: bytes=32 time=339ms TTL=127
+25/03/2026  7:54:22,18 
+Reply from 10.35.17.26: bytes=32 time=1471ms TTL=127
+25/03/2026  7:55:23,14 
+Reply from 10.35.17.26: bytes=32 time=918ms TTL=127
+25/03/2026  7:56:24,11 
+Reply from 10.35.17.26: bytes=32 time=269ms TTL=127
+25/03/2026  7:57:24,17 
+Reply from 10.35.17.26: bytes=32 time=629ms TTL=127
+25/03/2026  7:58:24,20 
+Reply from 10.35.17.26: bytes=32 time=704ms TTL=127
+25/03/2026  7:59:24,16 
+Reply from 10.35.17.26: bytes=32 time=27ms TTL=127
+25/03/2026  8:00:24,11 
+Reply from 10.35.17.26: bytes=32 time=1230ms TTL=127
+25/03/2026  8:01:25,14 
+Reply from 10.35.17.26: bytes=32 time=2977ms TTL=127
+25/03/2026  8:02:28,22 
+Reply from 10.35.17.26: bytes=32 time=195ms TTL=127
+25/03/2026  8:03:28,18 
+Reply from 10.35.17.26: bytes=32 time=17ms TTL=127
+25/03/2026  8:04:28,13 
+25/03/2026  8:05:31,17 
+Reply from 10.35.17.26: bytes=32 time=13ms TTL=127
+25/03/2026  8:06:31,17 
+Reply from 10.35.17.26: bytes=32 time=20ms TTL=127
+25/03/2026  8:07:31,12 
+Reply from 10.35.17.26: bytes=32 time=88ms TTL=127
+25/03/2026  8:08:31,16 
+Reply from 10.35.17.26: bytes=32 time=271ms TTL=127
+25/03/2026  8:09:31,19 
+Reply from 10.35.17.26: bytes=32 time=24ms TTL=127
+25/03/2026  8:10:31,20 
+Reply from 10.35.17.26: bytes=32 time=9ms TTL=127
+25/03/2026  8:11:31,14 
+Reply from 10.35.17.26: bytes=32 time=197ms TTL=127
+25/03/2026  8:12:31,13 
+25/03/2026  8:13:34,18 
+Reply from 10.35.17.26: bytes=32 time=57ms TTL=127
+25/03/2026  8:14:34,21 
+Reply from 10.35.17.26: bytes=32 time=141ms TTL=127
+25/03/2026  8:15:34,18 
+Reply from 10.35.17.26: bytes=32 time=182ms TTL=127
+25/03/2026  8:16:34,15 
+Reply from 10.35.17.26: bytes=32 time=132ms TTL=127
+25/03/2026  8:17:34,12 
+Reply from 10.35.17.26: bytes=32 time=59ms TTL=127
+25/03/2026  8:18:34,18 
+Reply from 10.35.17.26: bytes=32 time=190ms TTL=127
+25/03/2026  8:19:34,12 
+Reply from 10.35.17.26: bytes=32 time=204ms TTL=127
+25/03/2026  8:20:34,12 
+25/03/2026  8:21:37,12 
+Reply from 10.35.17.26: bytes=32 time=677ms TTL=127
+25/03/2026  8:22:37,16 
+Reply from 10.35.17.26: bytes=32 time=189ms TTL=127
+25/03/2026  8:23:37,15 
+Reply from 10.35.17.26: bytes=32 time=205ms TTL=127
+25/03/2026  8:24:37,12 
+Reply from 10.35.17.26: bytes=32 time=69ms TTL=127
+25/03/2026  8:25:37,13 
+Reply from 10.35.17.26: bytes=32 time=2379ms TTL=127
+25/03/2026  8:26:39,14 
+Reply from 10.35.17.26: bytes=32 time=523ms TTL=127
+25/03/2026  8:27:39,20 
+Reply from 10.35.17.26: bytes=32 time=272ms TTL=127
+25/03/2026  8:28:39,17 
+Reply from 10.35.17.26: bytes=32 time=102ms TTL=127
+25/03/2026  8:29:39,19 
+Reply from 10.35.17.26: bytes=32 time=27ms TTL=127
+25/03/2026  8:30:39,16 
+25/03/2026  8:31:42,19 
+25/03/2026  8:32:45,12 
+Reply from 10.35.17.26: bytes=32 time=11ms TTL=127
+25/03/2026  8:33:45,12 
+Reply from 10.35.17.26: bytes=32 time=15ms TTL=127
+25/03/2026  8:34:45,22 
+Reply from 10.35.17.26: bytes=32 time=456ms TTL=127
+25/03/2026  8:35:45,17 
+Reply from 10.35.17.26: bytes=32 time=298ms TTL=127
+25/03/2026  8:36:45,16 
+Reply from 10.35.17.26: bytes=32 time=25ms TTL=127
+25/03/2026  8:37:45,17 
+Reply from 10.35.17.26: bytes=32 time=151ms TTL=127
+25/03/2026  8:38:45,14 
+Reply from 10.35.17.26: bytes=32 time=457ms TTL=127
+25/03/2026  8:39:45,14 
+Reply from 10.35.17.26: bytes=32 time=268ms TTL=127
+25/03/2026  8:40:45,17 
+Reply from 10.35.17.26: bytes=32 time=103ms TTL=127
+25/03/2026  8:41:45,13 
+Reply from 10.35.17.26: bytes=32 time=192ms TTL=127
+25/03/2026  8:42:45,12 
+Reply from 10.35.17.26: bytes=32 time=204ms TTL=127
+25/03/2026  8:43:45,22 
+Reply from 10.35.17.26: bytes=32 time=188ms TTL=127
+25/03/2026  8:44:45,15 
+Reply from 10.35.17.26: bytes=32 time=200ms TTL=127
+25/03/2026  8:45:45,13 
+Reply from 10.35.17.26: bytes=32 time=14ms TTL=127
+25/03/2026  8:46:45,18 
+Reply from 10.35.17.26: bytes=32 time=170ms TTL=127
+25/03/2026  8:47:45,18 
+Reply from 10.35.17.26: bytes=32 time=372ms TTL=127
+25/03/2026  8:48:45,13 
+Reply from 10.35.17.26: bytes=32 time=335ms TTL=127
+25/03/2026  8:49:45,21 
+Reply from 10.35.17.26: bytes=32 time=266ms TTL=127
+25/03/2026  8:50:45,12 
+Reply from 10.35.17.26: bytes=32 time=481ms TTL=127
+25/03/2026  8:51:45,22 
+Reply from 10.35.17.26: bytes=32 time=694ms TTL=127
+25/03/2026  8:52:45,12 
+Reply from 10.35.17.26: bytes=32 time=360ms TTL=127
+25/03/2026  8:53:45,13 
+Reply from 10.35.17.26: bytes=32 time=284ms TTL=127
+25/03/2026  8:54:45,20 
+Reply from 10.35.17.26: bytes=32 time=18ms TTL=127
+25/03/2026  8:55:45,14 
+Reply from 10.35.17.26: bytes=32 time=18ms TTL=127
+25/03/2026  8:56:45,20 
+Reply from 10.35.17.26: bytes=32 time=9ms TTL=127
+25/03/2026  8:57:45,16 
+Reply from 10.35.17.26: bytes=32 time=189ms TTL=127
+25/03/2026  8:58:45,19 
+Reply from 10.35.17.26: bytes=32 time=10ms TTL=127
+25/03/2026  8:59:45,17 
+Reply from 10.35.17.26: bytes=32 time=76ms TTL=127
+25/03/2026  9:00:45,20 
+Reply from 10.35.17.26: bytes=32 time=56ms TTL=127
+25/03/2026  9:01:45,12 
+Reply from 10.35.17.26: bytes=32 time=151ms TTL=127
+25/03/2026  9:02:45,11 
+Reply from 10.35.17.26: bytes=32 time=260ms TTL=127
+25/03/2026  9:03:45,19 
+Reply from 10.35.17.26: bytes=32 time=130ms TTL=127
+25/03/2026  9:04:45,18 
+Reply from 10.35.17.26: bytes=32 time=13ms TTL=127
+25/03/2026  9:05:45,14 
+Reply from 10.35.17.26: bytes=32 time=267ms TTL=127
+25/03/2026  9:06:45,20 
+Reply from 10.35.17.26: bytes=32 time=30ms TTL=127
+25/03/2026  9:07:45,11 
+Reply from 10.35.17.26: bytes=32 time=100ms TTL=127
+25/03/2026  9:08:45,17 
+Reply from 10.35.17.26: bytes=32 time=19ms TTL=127
+25/03/2026  9:09:45,12 
+Reply from 10.35.17.26: bytes=32 time=131ms TTL=127
+25/03/2026  9:10:45,15 
+Reply from 10.35.17.26: bytes=32 time=96ms TTL=127
+25/03/2026  9:11:45,15 
+Reply from 10.35.17.26: bytes=32 time=30ms TTL=127
+25/03/2026  9:12:45,19 
+Reply from 10.35.17.26: bytes=32 time=19ms TTL=127
+25/03/2026  9:13:45,19 
+Reply from 10.35.17.26: bytes=32 time=14ms TTL=127
+25/03/2026  9:14:45,18 
+25/03/2026  9:15:48,17 
+25/03/2026  9:16:51,19 
+25/03/2026  9:17:54,16 
+25/03/2026  9:18:57,19 
+Reply from 10.35.17.26: bytes=32 time=3068ms TTL=127
+25/03/2026  9:20:00,13 
+Reply from 10.35.17.26: bytes=32 time=287ms TTL=127
+25/03/2026  9:21:00,20 
+25/03/2026  9:22:03,17 
+Reply from 10.35.17.26: bytes=32 time=487ms TTL=127
+25/03/2026  9:23:03,16 
+Reply from 10.35.17.26: bytes=32 time=331ms TTL=127
+25/03/2026  9:24:03,13 
+Reply from 10.35.17.26: bytes=32 time=972ms TTL=127
+25/03/2026  9:25:04,22 
+Reply from 10.35.17.26: bytes=32 time=1196ms TTL=127
+25/03/2026  9:26:05,13 
+25/03/2026  9:27:08,14 
+Reply from 10.35.17.26: bytes=32 time=887ms TTL=127
+25/03/2026  9:28:09,22 
+Reply from 10.35.17.26: bytes=32 time=13ms TTL=127
+25/03/2026  9:29:09,12 
+Reply from 10.35.17.26: bytes=32 time=20ms TTL=127
+25/03/2026  9:30:09,14 
+Reply from 10.35.17.26: bytes=32 time=93ms TTL=127
+25/03/2026  9:31:09,11 
+Reply from 10.35.17.26: bytes=32 time=11ms TTL=127
+25/03/2026  9:32:09,17 
+Reply from 10.35.17.26: bytes=32 time=192ms TTL=127
+25/03/2026  9:33:09,12 
+Reply from 10.35.17.26: bytes=32 time=139ms TTL=127
+25/03/2026  9:34:09,16 
+Reply from 10.35.17.26: bytes=32 time=120ms TTL=127
+25/03/2026  9:35:09,18 
+25/03/2026  9:36:12,16 
+Reply from 10.35.17.26: bytes=32 time=204ms TTL=127
+25/03/2026  9:37:12,16 
+Reply from 10.35.17.26: bytes=32 time=300ms TTL=127
+25/03/2026  9:38:12,20 
+Reply from 10.35.17.26: bytes=32 time=267ms TTL=127
+25/03/2026  9:39:12,15 
+Reply from 10.35.17.26: bytes=32 time=124ms TTL=127
+25/03/2026  9:40:12,15 
+Reply from 10.35.17.26: bytes=32 time=17ms TTL=127
+25/03/2026  9:41:12,19 
+Reply from 10.35.17.26: bytes=32 time=13ms TTL=127
+25/03/2026  9:42:12,17 
+Reply from 10.35.17.26: bytes=32 time=238ms TTL=127
+25/03/2026  9:43:12,12 
+Reply from 10.35.17.26: bytes=32 time=289ms TTL=127
+25/03/2026  9:44:12,15 
+Reply from 10.35.17.26: bytes=32 time=274ms TTL=127
+25/03/2026  9:45:12,17 
+Reply from 10.35.17.26: bytes=32 time=21ms TTL=127
+25/03/2026  9:46:12,13 
+Reply from 10.35.17.26: bytes=32 time=204ms TTL=127
+25/03/2026  9:47:12,18 
+Reply from 10.35.17.26: bytes=32 time=16ms TTL=127
+25/03/2026  9:48:12,12 
+Reply from 10.35.17.26: bytes=32 time=132ms TTL=127
+25/03/2026  9:49:12,11 
+Reply from 10.35.17.26: bytes=32 time=363ms TTL=127
+25/03/2026  9:50:12,16 
+Reply from 10.35.17.26: bytes=32 time=319ms TTL=127
+25/03/2026  9:51:12,19 
+Reply from 10.35.17.26: bytes=32 time=21ms TTL=127
+25/03/2026  9:52:12,11 
+Reply from 10.35.17.26: bytes=32 time=265ms TTL=127
+25/03/2026  9:53:12,17 
+Reply from 10.35.17.26: bytes=32 time=104ms TTL=127
+25/03/2026  9:54:12,20 
+Reply from 10.35.17.26: bytes=32 time=63ms TTL=127
+25/03/2026  9:55:12,12 
+25/03/2026  9:56:15,15 
+Reply from 10.35.17.26: bytes=32 time=15ms TTL=127
+25/03/2026  9:57:15,16 
+Reply from 10.35.17.26: bytes=32 time=67ms TTL=127
+25/03/2026  9:58:15,20 
+Reply from 10.35.17.26: bytes=32 time=280ms TTL=127
+25/03/2026  9:59:15,12 
+Reply from 10.35.17.26: bytes=32 time=98ms TTL=127
+25/03/2026 10:00:15,12 
+Reply from 10.35.17.26: bytes=32 time=29ms TTL=127
+25/03/2026 10:01:15,11 
+Reply from 10.35.17.26: bytes=32 time=45ms TTL=127
+25/03/2026 10:02:15,15 
+25/03/2026 10:03:18,17 
+Reply from 10.35.17.26: bytes=32 time=114ms TTL=127
+25/03/2026 10:04:18,12 
+Reply from 10.35.17.26: bytes=32 time=1292ms TTL=127
+25/03/2026 10:05:19,19 
+Reply from 10.35.17.26: bytes=32 time=33ms TTL=127
+25/03/2026 10:06:19,17 
+Reply from 10.35.17.26: bytes=32 time=32ms TTL=127
+25/03/2026 10:07:19,20 
+Reply from 10.35.17.26: bytes=32 time=16ms TTL=127
+25/03/2026 10:08:19,20 
+Reply from 10.35.17.26: bytes=32 time=22ms TTL=127
+25/03/2026 10:09:19,12 
+Reply from 10.35.17.26: bytes=32 time=190ms TTL=127
+25/03/2026 10:10:19,16 
+Reply from 10.35.17.26: bytes=32 time=59ms TTL=127
+25/03/2026 10:11:19,15 
+Reply from 10.35.17.26: bytes=32 time=483ms TTL=127
+25/03/2026 10:12:19,17 
+25/03/2026 10:13:22,14 
+Reply from 10.35.17.26: bytes=32 time=40ms TTL=127
+25/03/2026 10:14:22,11 
+Reply from 10.35.17.26: bytes=32 time=36ms TTL=127
+25/03/2026 10:15:22,19 
+Reply from 10.35.17.26: bytes=32 time=110ms TTL=127
+25/03/2026 10:16:22,13 
+Reply from 10.35.17.26: bytes=32 time=597ms TTL=127
+25/03/2026 10:17:22,19 
+Reply from 10.35.17.26: bytes=32 time=326ms TTL=127
+25/03/2026 10:18:22,20 
+Reply from 10.35.17.26: bytes=32 time=222ms TTL=127
+25/03/2026 10:19:22,17 
+Reply from 10.35.17.26: bytes=32 time=60ms TTL=127
+25/03/2026 10:20:22,15 
+Reply from 10.35.17.26: bytes=32 time=26ms TTL=127
+25/03/2026 10:21:22,20 
+Reply from 10.35.17.26: bytes=32 time=75ms TTL=127
+25/03/2026 10:22:22,19 
+Reply from 10.35.17.26: bytes=32 time=20ms TTL=127
+25/03/2026 10:23:22,19 
+25/03/2026 10:24:25,15 
+Reply from 10.35.17.26: bytes=32 time=11ms TTL=127
+25/03/2026 10:25:25,13 
+25/03/2026 10:26:28,17 
+Reply from 10.35.17.26: bytes=32 time=38ms TTL=127
+25/03/2026 10:27:28,12 
+Reply from 10.35.17.26: bytes=32 time=22ms TTL=127
+25/03/2026 10:28:28,18 
+Reply from 10.35.17.26: bytes=32 time=17ms TTL=127
+25/03/2026 10:29:28,20 
+Reply from 10.35.17.26: bytes=32 time=21ms TTL=127
+25/03/2026 10:30:28,18 
+Reply from 10.35.17.26: bytes=32 time=13ms TTL=127
+25/03/2026 10:31:28,15 
+Reply from 10.35.17.26: bytes=32 time=15ms TTL=127
+25/03/2026 10:32:28,17 
+Reply from 10.35.17.26: bytes=32 time=19ms TTL=127
+25/03/2026 10:33:28,11 
+Reply from 10.35.17.26: bytes=32 time=18ms TTL=127
+25/03/2026 10:34:28,14 
+Reply from 10.35.17.26: bytes=32 time=21ms TTL=127
+25/03/2026 10:35:28,12 
+Reply from 10.35.17.26: bytes=32 time=13ms TTL=127
+25/03/2026 10:36:28,19 
+Reply from 10.35.17.26: bytes=32 time=13ms TTL=127
+25/03/2026 10:37:28,19 
+Reply from 10.35.17.26: bytes=32 time=18ms TTL=127
+25/03/2026 10:38:28,16 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+25/03/2026 10:39:28,18 
+Reply from 10.35.17.26: bytes=32 time=13ms TTL=127
+25/03/2026 10:40:28,18 
+Reply from 10.35.17.26: bytes=32 time=57ms TTL=127
+25/03/2026 10:41:28,16 
+Reply from 10.35.17.26: bytes=32 time=24ms TTL=127
+25/03/2026 10:42:28,13 
+Reply from 10.35.17.26: bytes=32 time=115ms TTL=127
+25/03/2026 10:43:28,18 
+Reply from 10.35.17.26: bytes=32 time=15ms TTL=127
+25/03/2026 10:44:28,21 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+25/03/2026 10:45:28,20 
+Reply from 10.35.17.26: bytes=32 time=23ms TTL=127
+25/03/2026 10:46:28,20 
+Reply from 10.35.17.26: bytes=32 time=24ms TTL=127
+25/03/2026 10:47:28,13 
+Reply from 10.35.17.26: bytes=32 time=19ms TTL=127
+25/03/2026 10:48:28,18 
+Reply from 10.35.17.26: bytes=32 time=19ms TTL=127
+25/03/2026 10:49:28,21 
+Reply from 10.35.17.26: bytes=32 time=43ms TTL=127
+25/03/2026 10:50:28,15 
+Reply from 10.35.17.26: bytes=32 time=32ms TTL=127
+25/03/2026 10:51:28,18 
+Reply from 10.35.17.26: bytes=32 time=22ms TTL=127
+25/03/2026 10:52:28,11 
+Reply from 10.35.17.26: bytes=32 time=85ms TTL=127
+25/03/2026 10:53:28,19 
+Reply from 10.35.17.26: bytes=32 time=220ms TTL=127
+25/03/2026 10:54:28,14 
+Reply from 10.35.17.26: bytes=32 time=13ms TTL=127
+25/03/2026 10:55:28,13 
+Reply from 10.35.17.26: bytes=32 time=289ms TTL=127
+25/03/2026 10:56:28,17 
+Reply from 10.35.17.26: bytes=32 time=27ms TTL=127
+25/03/2026 10:57:28,21 
+Reply from 10.35.17.26: bytes=32 time=174ms TTL=127
+25/03/2026 10:58:28,18 
+Reply from 10.35.17.26: bytes=32 time=222ms TTL=127
+25/03/2026 10:59:28,18 
+Reply from 10.35.17.26: bytes=32 time=263ms TTL=127
+25/03/2026 11:00:28,16 
+Reply from 10.35.17.26: bytes=32 time=11ms TTL=127
+25/03/2026 11:01:28,17 
+Reply from 10.35.17.26: bytes=32 time=286ms TTL=127
+25/03/2026 11:02:28,17 
+Reply from 10.35.17.26: bytes=32 time=295ms TTL=127
+25/03/2026 11:03:28,17 
+Reply from 10.35.17.26: bytes=32 time=73ms TTL=127
+25/03/2026 11:04:28,12 
+Reply from 10.35.17.26: bytes=32 time=182ms TTL=127
+25/03/2026 11:05:28,17 
+Reply from 10.35.17.26: bytes=32 time=19ms TTL=127
+25/03/2026 11:06:28,13 
+Reply from 10.35.17.26: bytes=32 time=11ms TTL=127
+25/03/2026 11:07:28,19 
+Reply from 10.35.17.26: bytes=32 time=136ms TTL=127
+25/03/2026 11:08:28,15 
+Reply from 10.35.17.26: bytes=32 time=32ms TTL=127
+25/03/2026 11:09:28,17 
+Reply from 10.35.17.26: bytes=32 time=15ms TTL=127
+25/03/2026 11:10:28,20 
+Reply from 10.35.17.26: bytes=32 time=51ms TTL=127
+25/03/2026 11:11:28,20 
+Reply from 10.35.17.26: bytes=32 time=38ms TTL=127
+25/03/2026 11:12:28,15 
+Reply from 10.35.17.26: bytes=32 time=29ms TTL=127
+25/03/2026 11:13:28,16 
+Reply from 10.35.17.26: bytes=32 time=63ms TTL=127
+25/03/2026 11:14:28,20 
+Reply from 10.35.17.26: bytes=32 time=214ms TTL=127
+25/03/2026 11:15:28,17 
+Reply from 10.35.17.26: bytes=32 time=318ms TTL=127
+25/03/2026 11:16:28,16 
+Reply from 10.35.17.26: bytes=32 time=35ms TTL=127
+25/03/2026 11:17:28,14 
+Reply from 10.35.17.26: bytes=32 time=252ms TTL=127
+25/03/2026 11:18:28,15 
+Reply from 10.35.17.26: bytes=32 time=22ms TTL=127
+25/03/2026 11:19:28,17 
+Reply from 10.35.17.26: bytes=32 time=400ms TTL=127
+25/03/2026 11:20:28,16 
+Reply from 10.35.17.26: bytes=32 time=145ms TTL=127
+25/03/2026 11:21:28,17 
+Reply from 10.35.17.26: bytes=32 time=28ms TTL=127
+25/03/2026 11:22:28,15 
+Reply from 10.35.17.26: bytes=32 time=75ms TTL=127
+25/03/2026 11:23:28,15 
+Reply from 10.35.17.26: bytes=32 time=280ms TTL=127
+25/03/2026 11:24:28,13 
+Reply from 10.35.17.26: bytes=32 time=14ms TTL=127
+25/03/2026 11:25:28,11 
+Reply from 10.35.17.26: bytes=32 time=2114ms TTL=127
+25/03/2026 11:26:30,14 
+Reply from 10.35.17.26: bytes=32 time=276ms TTL=127
+25/03/2026 11:27:30,19 
+Reply from 10.35.17.26: bytes=32 time=145ms TTL=127
+25/03/2026 11:30:52,78 
+25/03/2026 11:31:53,16 
+25/03/2026 11:32:40,51 
+25/03/2026 11:33:44,16 
+25/03/2026 11:34:47,19 
+25/03/2026 11:35:50,19 
+25/03/2026 11:36:53,11 
+25/03/2026 11:37:56,15 
+25/03/2026 11:38:59,13 
+25/03/2026 11:40:02,17 
+25/03/2026 11:41:05,14 
+25/03/2026 11:42:08,16 
+25/03/2026 11:43:11,15 
+25/03/2026 11:44:14,13 
+25/03/2026 11:45:17,15 
+25/03/2026 11:46:20,17 
+25/03/2026 11:47:23,17 
+25/03/2026 11:48:26,12 
+25/03/2026 11:49:29,20 
+25/03/2026 11:50:32,12 
+25/03/2026 11:51:35,14 
+25/03/2026 11:52:38,20 
+25/03/2026 11:53:41,14 
+25/03/2026 11:54:44,19 
+25/03/2026 11:55:47,18 
+25/03/2026 11:56:50,18 
+25/03/2026 11:57:53,17 
+25/03/2026 11:58:56,13 
+25/03/2026 12:02:50,70 
+Reply from 10.35.17.26: bytes=32 time=15ms TTL=127
+25/03/2026 12:03:50,20 
+Reply from 10.35.17.26: bytes=32 time=16ms TTL=127
+25/03/2026 12:04:50,19 
+Reply from 10.35.17.26: bytes=32 time=14ms TTL=127
+25/03/2026 12:05:50,12 
+Reply from 10.35.17.26: bytes=32 time=51ms TTL=127
+25/03/2026 12:06:50,11 
+Reply from 10.35.17.26: bytes=32 time=19ms TTL=127
+25/03/2026 12:07:50,19 
+Reply from 10.35.17.26: bytes=32 time=104ms TTL=127
+25/03/2026 12:08:50,20 
+Reply from 10.35.17.26: bytes=32 time=11ms TTL=127
+25/03/2026 12:09:50,12 
+Reply from 10.35.17.26: bytes=32 time=11ms TTL=127
+25/03/2026 12:10:50,11 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+25/03/2026 12:11:50,22 
+Reply from 10.35.17.26: bytes=32 time=13ms TTL=127
+25/03/2026 12:12:50,11 
+Reply from 10.35.17.26: bytes=32 time=14ms TTL=127
+25/03/2026 12:13:50,14 
+Reply from 10.35.17.26: bytes=32 time=18ms TTL=127
+25/03/2026 12:14:50,17 
+Reply from 10.35.17.26: bytes=32 time=13ms TTL=127
+25/03/2026 12:15:50,20 
+Reply from 10.35.17.26: bytes=32 time=36ms TTL=127
+25/03/2026 12:16:50,17 
+Reply from 10.35.17.26: bytes=32 time=17ms TTL=127
+25/03/2026 12:17:50,20 
+Reply from 10.35.17.26: bytes=32 time=16ms TTL=127
+25/03/2026 12:18:50,21 
+Reply from 10.35.17.26: bytes=32 time=153ms TTL=127
+25/03/2026 12:19:50,18 
+Reply from 10.35.17.26: bytes=32 time=13ms TTL=127
+25/03/2026 12:20:50,12 
+Reply from 10.35.17.26: bytes=32 time=467ms TTL=127
+25/03/2026 12:21:50,12 
+Reply from 10.35.17.26: bytes=32 time=23ms TTL=127
+25/03/2026 12:22:50,20 
+Reply from 10.35.17.26: bytes=32 time=548ms TTL=127
+25/03/2026 12:23:50,17 
+Reply from 10.35.17.26: bytes=32 time=11ms TTL=127
+25/03/2026 12:24:50,14 
+Reply from 10.35.17.26: bytes=32 time=9ms TTL=127
+25/03/2026 12:25:50,14 
+Reply from 10.35.17.26: bytes=32 time=9ms TTL=127
+25/03/2026 12:26:50,18 
+Reply from 10.35.17.26: bytes=32 time=243ms TTL=127
+25/03/2026 12:27:50,16 
+Reply from 10.35.17.26: bytes=32 time=19ms TTL=127
+25/03/2026 12:28:50,19 
+25/03/2026 12:29:53,17 
+Reply from 10.35.17.26: bytes=32 time=17ms TTL=127
+25/03/2026 12:30:53,15 
+Reply from 10.35.17.26: bytes=32 time=23ms TTL=127
+25/03/2026 12:31:53,17 
+Reply from 10.35.17.26: bytes=32 time=15ms TTL=127
+25/03/2026 12:32:53,16 
+Reply from 10.35.17.26: bytes=32 time=42ms TTL=127
+25/03/2026 12:33:53,14 
+Reply from 10.35.17.26: bytes=32 time=11ms TTL=127
+25/03/2026 12:34:53,14 
+Reply from 10.35.17.26: bytes=32 time=11ms TTL=127
+25/03/2026 12:35:53,18 
+Reply from 10.35.17.26: bytes=32 time=11ms TTL=127
+25/03/2026 12:36:53,14 
+Reply from 10.35.17.26: bytes=32 time=10ms TTL=127
+25/03/2026 12:37:53,17 
+Reply from 10.35.17.26: bytes=32 time=11ms TTL=127
+25/03/2026 12:38:53,11 
+Reply from 10.35.17.26: bytes=32 time=11ms TTL=127
+25/03/2026 12:39:53,16 
+25/03/2026 12:40:56,20 
+Reply from 10.35.17.26: bytes=32 time=10ms TTL=127
+25/03/2026 12:41:56,18 
+Reply from 10.35.17.26: bytes=32 time=9ms TTL=127
+25/03/2026 12:42:56,15 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+25/03/2026 12:43:56,11 
+Reply from 10.35.17.26: bytes=32 time=10ms TTL=127
+25/03/2026 12:44:56,17 
+Reply from 10.35.17.26: bytes=32 time=9ms TTL=127
+25/03/2026 12:45:56,20 
+Reply from 10.35.17.26: bytes=32 time=10ms TTL=127
+25/03/2026 12:46:56,21 
+Reply from 10.35.17.26: bytes=32 time=16ms TTL=127
+25/03/2026 12:47:56,21 
+Reply from 10.35.17.26: bytes=32 time=13ms TTL=127
+25/03/2026 12:48:56,14 
+Reply from 10.35.17.26: bytes=32 time=21ms TTL=127
+25/03/2026 12:49:56,18 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+25/03/2026 12:50:56,17 
+Reply from 10.35.17.26: bytes=32 time=11ms TTL=127
+25/03/2026 12:51:56,15 
+Reply from 10.35.17.26: bytes=32 time=82ms TTL=127
+25/03/2026 12:52:56,14 
+Reply from 10.35.17.26: bytes=32 time=10ms TTL=127
+25/03/2026 12:53:56,15 
+Reply from 10.35.17.26: bytes=32 time=11ms TTL=127
+25/03/2026 12:54:56,20 
+Reply from 10.35.17.26: bytes=32 time=8ms TTL=127
+25/03/2026 12:55:56,19 
+Reply from 10.35.17.26: bytes=32 time=9ms TTL=127
+25/03/2026 12:56:56,14 
+Reply from 10.35.17.26: bytes=32 time=11ms TTL=127
+25/03/2026 12:57:56,17 
+Reply from 10.35.17.26: bytes=32 time=40ms TTL=127
+25/03/2026 12:58:56,12 
+Reply from 10.35.17.26: bytes=32 time=9ms TTL=127
+25/03/2026 12:59:56,13 
+Reply from 10.35.17.26: bytes=32 time=18ms TTL=127
+25/03/2026 13:00:56,16 
+Reply from 10.35.17.26: bytes=32 time=15ms TTL=127
+25/03/2026 13:01:56,21 
+Reply from 10.35.17.26: bytes=32 time=9ms TTL=127
+25/03/2026 13:02:56,16 
+Reply from 10.35.17.26: bytes=32 time=8ms TTL=127
+25/03/2026 13:03:56,13 
+Reply from 10.35.17.26: bytes=32 time=10ms TTL=127
+25/03/2026 13:04:56,13 
+Reply from 10.35.17.26: bytes=32 time=9ms TTL=127
+25/03/2026 13:05:56,21 
+Reply from 10.35.17.26: bytes=32 time=14ms TTL=127
+25/03/2026 13:06:56,20 
+Reply from 10.35.17.26: bytes=32 time=14ms TTL=127
+25/03/2026 13:07:56,11 
+Reply from 10.35.17.26: bytes=32 time=73ms TTL=127
+25/03/2026 13:08:56,13 
+Reply from 10.35.17.26: bytes=32 time=61ms TTL=127
+25/03/2026 13:09:56,13 
+Reply from 10.35.17.26: bytes=32 time=20ms TTL=127
+26/03/2026  8:00:09,48 
+Reply from 10.35.17.26: bytes=32 time=503ms TTL=127
+26/03/2026  8:01:10,16 
+Reply from 10.35.17.26: bytes=32 time=332ms TTL=127
+26/03/2026  8:02:10,17 
+Reply from 10.35.17.26: bytes=32 time=14ms TTL=127
+26/03/2026  8:03:10,21 
+Reply from 10.35.17.26: bytes=32 time=243ms TTL=127
+26/03/2026  8:04:10,17 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+26/03/2026  8:05:10,14 
+Reply from 10.35.17.26: bytes=32 time=221ms TTL=127
+26/03/2026  8:06:10,19 
+Reply from 10.35.17.26: bytes=32 time=17ms TTL=127
+26/03/2026  8:07:10,19 
+Reply from 10.35.17.26: bytes=32 time=715ms TTL=127
+26/03/2026  8:08:10,19 
+Reply from 10.35.17.26: bytes=32 time=89ms TTL=127
+26/03/2026  8:09:10,19 
+Reply from 10.35.17.26: bytes=32 time=103ms TTL=127
+26/03/2026  8:10:10,19 
+Reply from 10.35.17.26: bytes=32 time=128ms TTL=127
+26/03/2026  8:11:10,18 
+Reply from 10.35.17.26: bytes=32 time=434ms TTL=127
+26/03/2026  8:12:10,20 
+Reply from 10.35.17.26: bytes=32 time=19ms TTL=127
+26/03/2026  8:13:10,17 
+Reply from 10.35.17.26: bytes=32 time=16ms TTL=127
+26/03/2026  8:14:10,11 
+Reply from 10.35.17.26: bytes=32 time=231ms TTL=127
+26/03/2026  8:15:10,17 
+Reply from 10.35.17.26: bytes=32 time=689ms TTL=127
+26/03/2026  8:16:10,20 
+Reply from 10.35.17.26: bytes=32 time=151ms TTL=127
+26/03/2026  8:17:10,20 
+Reply from 10.35.17.26: bytes=32 time=13ms TTL=127
+26/03/2026  8:18:10,21 
+26/03/2026  8:19:14,18 
+26/03/2026  8:20:18,15 
+26/03/2026  8:21:22,12 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+26/03/2026  8:22:22,19 
+Reply from 10.35.17.26: bytes=32 time=13ms TTL=127
+26/03/2026  8:23:22,20 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+26/03/2026  8:24:22,14 
+Reply from 10.35.17.26: bytes=32 time=15ms TTL=127
+26/03/2026  8:25:22,19 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+26/03/2026  8:26:22,15 
+Reply from 10.35.17.26: bytes=32 time=14ms TTL=127
+26/03/2026  8:27:22,21 
+Reply from 10.35.17.26: bytes=32 time=17ms TTL=127
+26/03/2026  8:28:22,12 
+Reply from 10.35.17.26: bytes=32 time=20ms TTL=127
+26/03/2026  8:29:22,20 
+26/03/2026  8:30:26,16 
+Reply from 10.35.17.26: bytes=32 time=2025ms TTL=127
+26/03/2026  8:31:28,11 
+Reply from 10.35.17.26: bytes=32 time=14ms TTL=127
+26/03/2026  8:32:28,12 
+Reply from 10.35.17.26: bytes=32 time=13ms TTL=127
+26/03/2026  8:33:28,18 
+Reply from 10.35.17.26: bytes=32 time=1077ms TTL=127
+26/03/2026  8:34:29,15 
+26/03/2026  8:35:33,20 
+Reply from 10.35.17.26: bytes=32 time=25ms TTL=127
+26/03/2026  8:36:33,18 
+Reply from 10.35.17.26: bytes=32 time=22ms TTL=127
+26/03/2026  8:37:33,21 
+Reply from 10.35.17.26: bytes=32 time=20ms TTL=127
+26/03/2026  8:38:33,20 
+26/03/2026  8:39:37,23 
+26/03/2026  8:40:41,19 
+26/03/2026  8:41:45,16 
+26/03/2026  8:42:49,12 
+26/03/2026  8:43:53,21 
+26/03/2026  8:44:57,59 
+26/03/2026  8:46:01,13 
+26/03/2026  8:47:05,18 
+Reply from 10.35.17.26: bytes=32 time=18ms TTL=127
+26/03/2026  8:48:05,18 
+26/03/2026  8:49:09,24 
+26/03/2026  8:50:13,76 
+26/03/2026  8:51:18,98 
+26/03/2026  8:52:23,12 
+Reply from 10.35.17.26: bytes=32 time=23ms TTL=127
+26/03/2026  8:53:23,14 
+Reply from 10.35.17.26: bytes=32 time=801ms TTL=127
+26/03/2026  8:54:23,14 
+Reply from 10.35.17.26: bytes=32 time=329ms TTL=127
+26/03/2026  8:55:23,15 
+26/03/2026  8:56:27,18 
+Reply from 10.35.17.26: bytes=32 time=29ms TTL=127
+26/03/2026  8:57:27,14 
+Reply from 10.35.17.26: bytes=32 time=14ms TTL=127
+26/03/2026  8:58:27,13 
+26/03/2026  8:59:31,12 
+Reply from 10.35.17.26: bytes=32 time=14ms TTL=127
+26/03/2026  9:00:31,18 
+Reply from 10.35.17.26: bytes=32 time=35ms TTL=127
+26/03/2026  9:01:31,22 
+Reply from 10.35.17.26: bytes=32 time=14ms TTL=127
+26/03/2026  9:02:31,20 
+Reply from 10.35.17.26: bytes=32 time=360ms TTL=127
+26/03/2026  9:03:31,12 
+26/03/2026  9:04:35,15 
+Reply from 10.35.17.26: bytes=32 time=14ms TTL=127
+26/03/2026  9:05:35,15 
+Reply from 10.35.17.26: bytes=32 time=16ms TTL=127
+26/03/2026  9:06:35,16 
+Reply from 10.35.17.26: bytes=32 time=16ms TTL=127
+26/03/2026  9:07:35,10 
+26/03/2026  9:08:39,12 
+26/03/2026  9:09:43,20 
+Reply from 10.35.17.26: bytes=32 time=350ms TTL=127
+26/03/2026  9:10:43,22 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+26/03/2026  9:11:43,14 
+Reply from 10.35.17.26: bytes=32 time=20ms TTL=127
+26/03/2026  9:12:43,16 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+26/03/2026  9:13:43,21 
+Reply from 10.35.17.26: bytes=32 time=15ms TTL=127
+26/03/2026  9:14:43,17 
+Reply from 10.35.17.26: bytes=32 time=16ms TTL=127
+26/03/2026  9:15:43,12 
+Reply from 10.35.17.26: bytes=32 time=46ms TTL=127
+26/03/2026  9:16:43,16 
+Reply from 10.35.17.26: bytes=32 time=13ms TTL=127
+26/03/2026  9:17:43,14 
+Reply from 10.35.17.26: bytes=32 time=15ms TTL=127
+26/03/2026  9:18:43,11 
+Reply from 10.35.17.26: bytes=32 time=25ms TTL=127
+26/03/2026  9:19:43,12 
+Reply from 10.35.17.26: bytes=32 time=15ms TTL=127
+26/03/2026  9:20:43,11 
+Reply from 10.35.17.26: bytes=32 time=173ms TTL=127
+26/03/2026  9:21:43,20 
+Reply from 10.35.17.26: bytes=32 time=22ms TTL=127
+26/03/2026  9:22:43,18 
+Reply from 10.35.17.26: bytes=32 time=14ms TTL=127
+26/03/2026  9:23:43,12 
+Reply from 10.35.17.26: bytes=32 time=22ms TTL=127
+26/03/2026  9:24:43,15 
+Reply from 10.35.17.26: bytes=32 time=19ms TTL=127
+26/03/2026  9:25:43,16 
+Reply from 10.35.17.26: bytes=32 time=29ms TTL=127
+26/03/2026  9:26:43,19 
+Reply from 10.35.17.26: bytes=32 time=25ms TTL=127
+26/03/2026  9:27:43,14 
+Reply from 10.35.17.26: bytes=32 time=413ms TTL=127
+26/03/2026  9:28:43,17 
+26/03/2026  9:29:47,16 
+Reply from 10.35.17.26: bytes=32 time=433ms TTL=127
+26/03/2026  9:30:47,19 
+Reply from 10.35.17.26: bytes=32 time=22ms TTL=127
+26/03/2026  9:31:47,17 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+26/03/2026  9:32:47,20 
+Reply from 10.35.17.26: bytes=32 time=13ms TTL=127
+26/03/2026  9:33:47,19 
+Reply from 10.35.17.26: bytes=32 time=1446ms TTL=127
+26/03/2026  9:34:48,20 
+Reply from 10.35.17.26: bytes=32 time=446ms TTL=127
+26/03/2026  9:35:48,14 
+Reply from 10.35.17.26: bytes=32 time=14ms TTL=127
+26/03/2026  9:36:48,19 
+Reply from 10.35.17.26: bytes=32 time=642ms TTL=127
+26/03/2026  9:37:48,13 
+Reply from 10.35.17.26: bytes=32 time=14ms TTL=127
+26/03/2026  9:38:48,14 
+Reply from 10.35.17.26: bytes=32 time=20ms TTL=127
+26/03/2026  9:39:48,20 
+Reply from 10.35.17.26: bytes=32 time=13ms TTL=127
+26/03/2026  9:40:48,22 
+Reply from 10.35.17.26: bytes=32 time=24ms TTL=127
+26/03/2026  9:41:48,15 
+Reply from 10.35.17.26: bytes=32 time=15ms TTL=127
+26/03/2026  9:42:48,17 
+Reply from 10.35.17.26: bytes=32 time=478ms TTL=127
+26/03/2026  9:43:48,19 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+26/03/2026  9:44:48,21 
+Reply from 10.35.17.26: bytes=32 time=13ms TTL=127
+26/03/2026  9:45:48,11 
+Reply from 10.35.17.26: bytes=32 time=19ms TTL=127
+26/03/2026  9:46:48,15 
+Reply from 10.35.17.26: bytes=32 time=14ms TTL=127
+26/03/2026  9:47:48,11 
+Reply from 10.35.17.26: bytes=32 time=13ms TTL=127
+26/03/2026  9:48:48,13 
+Reply from 10.35.17.26: bytes=32 time=424ms TTL=127
+26/03/2026  9:49:48,20 
+Reply from 10.35.17.26: bytes=32 time=13ms TTL=127
+26/03/2026  9:50:48,18 
+Reply from 10.35.17.26: bytes=32 time=11ms TTL=127
+26/03/2026  9:51:48,15 
+Reply from 10.35.17.26: bytes=32 time=220ms TTL=127
+26/03/2026  9:52:48,15 
+Reply from 10.35.17.26: bytes=32 time=142ms TTL=127
+26/03/2026  9:53:48,15 
+Reply from 10.35.17.26: bytes=32 time=78ms TTL=127
+26/03/2026  9:54:48,12 
+Reply from 10.35.17.26: bytes=32 time=21ms TTL=127
+26/03/2026  9:55:48,14 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+26/03/2026  9:56:48,16 
+Reply from 10.35.17.26: bytes=32 time=13ms TTL=127
+26/03/2026  9:57:48,15 
+Reply from 10.35.17.26: bytes=32 time=13ms TTL=127
+26/03/2026  9:58:48,19 
+Reply from 10.35.17.26: bytes=32 time=15ms TTL=127
+26/03/2026  9:59:48,11 
+Reply from 10.35.17.26: bytes=32 time=78ms TTL=127
+26/03/2026 10:00:48,18 
+Reply from 10.35.17.26: bytes=32 time=14ms TTL=127
+26/03/2026 10:01:48,19 
+Reply from 10.35.17.26: bytes=32 time=19ms TTL=127
+26/03/2026 10:02:48,18 
+Reply from 10.35.17.26: bytes=32 time=26ms TTL=127
+26/03/2026 10:03:48,12 
+Reply from 10.35.17.26: bytes=32 time=234ms TTL=127
+26/03/2026 10:04:48,16 
+Reply from 10.35.17.26: bytes=32 time=405ms TTL=127
+26/03/2026 10:05:48,22 
+Reply from 10.35.17.26: bytes=32 time=198ms TTL=127
+26/03/2026 10:06:48,18 
+Reply from 10.35.17.26: bytes=32 time=28ms TTL=127
+26/03/2026 10:07:48,15 
+Reply from 10.35.17.26: bytes=32 time=21ms TTL=127
+26/03/2026 10:08:48,12 
+Reply from 10.35.17.26: bytes=32 time=2428ms TTL=127
+26/03/2026 10:09:50,18 
+Reply from 10.35.17.26: bytes=32 time=15ms TTL=127
+26/03/2026 10:10:50,20 
+Reply from 10.35.17.26: bytes=32 time=19ms TTL=127
+26/03/2026 10:11:50,14 
+Reply from 10.35.17.26: bytes=32 time=1412ms TTL=127
+26/03/2026 10:12:51,19 
+Reply from 10.35.17.26: bytes=32 time=471ms TTL=127
+26/03/2026 10:13:51,12 
+26/03/2026 10:14:55,17 
+26/03/2026 10:15:59,17 
+26/03/2026 10:17:03,18 
+26/03/2026 10:18:07,14 
+26/03/2026 10:19:11,15 
+26/03/2026 10:20:15,16 
+26/03/2026 10:21:19,14 
+26/03/2026 10:22:23,12 
+26/03/2026 10:23:27,19 
+26/03/2026 10:24:31,14 
+26/03/2026 10:25:35,14 
+26/03/2026 10:26:39,21 
+26/03/2026 10:27:43,20 
+26/03/2026 10:28:47,22 
+26/03/2026 10:29:51,18 
+26/03/2026 10:30:55,18 
+26/03/2026 10:31:59,20 
+26/03/2026 10:33:03,17 
+26/03/2026 10:34:07,15 
+26/03/2026 10:35:11,19 
+26/03/2026 10:36:15,13 
+26/03/2026 10:37:19,21 
+26/03/2026 10:38:23,18 
+26/03/2026 10:39:27,22 
+26/03/2026 10:40:31,21 
+26/03/2026 10:41:35,17 
+26/03/2026 10:42:39,12 
+26/03/2026 10:43:43,16 
+26/03/2026 10:44:47,18 
+26/03/2026 10:45:51,12 
+26/03/2026 10:46:55,19 
+26/03/2026 10:47:59,15 
+26/03/2026 10:49:03,18 
+26/03/2026 10:50:07,14 
+26/03/2026 10:51:11,18 
+26/03/2026 10:52:15,17 
+26/03/2026 10:53:19,14 
+26/03/2026 10:54:23,19 
+26/03/2026 10:55:27,17 
+26/03/2026 10:56:31,17 
+26/03/2026 10:57:35,17 
+26/03/2026 10:58:39,18 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+26/03/2026 10:59:39,14 
+Reply from 10.35.17.26: bytes=32 time=11ms TTL=127
+26/03/2026 11:00:39,19 
+Reply from 10.35.17.26: bytes=32 time=18ms TTL=127
+26/03/2026 11:01:39,22 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+26/03/2026 11:02:39,11 
+Reply from 10.35.17.26: bytes=32 time=14ms TTL=127
+26/03/2026 11:03:39,20 
+Reply from 10.35.17.26: bytes=32 time=155ms TTL=127
+26/03/2026 11:04:39,11 
+Reply from 10.35.17.26: bytes=32 time=10ms TTL=127
+26/03/2026 11:05:39,11 
+Reply from 10.35.17.26: bytes=32 time=14ms TTL=127
+26/03/2026 11:06:39,19 
+Reply from 10.35.17.26: bytes=32 time=15ms TTL=127
+26/03/2026 11:07:39,13 
+Reply from 10.35.17.26: bytes=32 time=781ms TTL=127
+26/03/2026 11:08:40,11 
+Reply from 10.35.17.26: bytes=32 time=1282ms TTL=127
+26/03/2026 11:09:41,18 
+Reply from 10.35.17.26: bytes=32 time=19ms TTL=127
+26/03/2026 11:10:41,11 
+Reply from 10.35.17.26: bytes=32 time=13ms TTL=127
+26/03/2026 11:11:41,22 
+Reply from 10.35.17.26: bytes=32 time=13ms TTL=127
+26/03/2026 11:12:41,17 
+Reply from 10.35.17.26: bytes=32 time=161ms TTL=127
+26/03/2026 11:13:41,12 
+Reply from 10.35.17.26: bytes=32 time=31ms TTL=127
+26/03/2026 11:14:41,14 
+Reply from 10.35.17.26: bytes=32 time=2313ms TTL=127
+26/03/2026 11:15:43,18 
+Reply from 10.35.17.26: bytes=32 time=23ms TTL=127
+26/03/2026 11:16:43,20 
+Reply from 10.35.17.26: bytes=32 time=575ms TTL=127
+26/03/2026 11:17:43,11 
+Reply from 10.35.17.26: bytes=32 time=15ms TTL=127
+26/03/2026 11:18:43,17 
+Reply from 10.35.17.26: bytes=32 time=219ms TTL=127
+26/03/2026 11:19:43,11 
+Reply from 10.35.17.26: bytes=32 time=13ms TTL=127
+26/03/2026 11:20:43,18 
+Reply from 10.35.17.26: bytes=32 time=13ms TTL=127
+26/03/2026 11:21:43,11 
+Reply from 10.35.17.26: bytes=32 time=22ms TTL=127
+26/03/2026 11:22:43,16 
+Reply from 10.35.17.26: bytes=32 time=486ms TTL=127
+26/03/2026 11:23:43,12 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+26/03/2026 11:24:43,14 
+Reply from 10.35.17.26: bytes=32 time=21ms TTL=127
+26/03/2026 11:25:43,18 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+26/03/2026 11:26:43,19 
+Reply from 10.35.17.26: bytes=32 time=19ms TTL=127
+26/03/2026 11:27:43,22 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+26/03/2026 11:28:43,16 
+Reply from 10.35.17.26: bytes=32 time=856ms TTL=127
+26/03/2026 11:29:44,20 
+26/03/2026 11:30:48,11 
+Reply from 10.35.17.26: bytes=32 time=1404ms TTL=127
+26/03/2026 11:31:49,11 
+Reply from 10.35.17.26: bytes=32 time=13ms TTL=127
+26/03/2026 11:32:49,18 
+Reply from 10.35.17.26: bytes=32 time=16ms TTL=127
+26/03/2026 11:33:49,15 
+Reply from 10.35.17.26: bytes=32 time=21ms TTL=127
+26/03/2026 11:34:49,20 
+26/03/2026 11:35:53,15 
+Reply from 10.35.17.26: bytes=32 time=13ms TTL=127
+26/03/2026 11:36:53,12 
+Reply from 10.35.17.26: bytes=32 time=18ms TTL=127
+26/03/2026 11:37:53,14 
+Reply from 10.35.17.26: bytes=32 time=16ms TTL=127
+26/03/2026 11:38:53,13 
+Reply from 10.35.17.26: bytes=32 time=18ms TTL=127
+26/03/2026 11:39:53,16 
+Reply from 10.35.17.26: bytes=32 time=15ms TTL=127
+26/03/2026 11:40:53,18 
+Reply from 10.35.17.26: bytes=32 time=150ms TTL=127
+26/03/2026 11:41:53,13 
+Reply from 10.35.17.26: bytes=32 time=27ms TTL=127
+26/03/2026 11:42:53,18 
+Reply from 10.35.17.26: bytes=32 time=15ms TTL=127
+26/03/2026 11:43:53,19 
+Reply from 10.35.17.26: bytes=32 time=13ms TTL=127
+26/03/2026 11:44:53,16 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+26/03/2026 11:45:53,18 
+Reply from 10.35.17.26: bytes=32 time=13ms TTL=127
+26/03/2026 11:46:53,16 
+Reply from 10.35.17.26: bytes=32 time=17ms TTL=127
+26/03/2026 11:47:53,17 
+Reply from 10.35.17.26: bytes=32 time=15ms TTL=127
+26/03/2026 11:48:53,18 
+Reply from 10.35.17.26: bytes=32 time=14ms TTL=127
+26/03/2026 11:49:53,12 
+Reply from 10.35.17.26: bytes=32 time=13ms TTL=127
+26/03/2026 11:50:53,15 
+Reply from 10.35.17.26: bytes=32 time=14ms TTL=127
+26/03/2026 11:51:53,13 
+Reply from 10.35.17.26: bytes=32 time=256ms TTL=127
+26/03/2026 11:52:53,19 
+Reply from 10.35.17.26: bytes=32 time=19ms TTL=127
+26/03/2026 11:53:53,14 
+Reply from 10.35.17.26: bytes=32 time=882ms TTL=127
+26/03/2026 11:54:54,19 
+Reply from 10.35.17.26: bytes=32 time=15ms TTL=127
+26/03/2026 11:55:54,16 
+Reply from 10.35.17.26: bytes=32 time=13ms TTL=127
+26/03/2026 11:56:54,19 
+Reply from 10.35.17.26: bytes=32 time=18ms TTL=127
+26/03/2026 11:57:54,18 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+26/03/2026 11:58:54,15 
+Reply from 10.35.17.26: bytes=32 time=33ms TTL=127
+26/03/2026 11:59:54,21 
+Reply from 10.35.17.26: bytes=32 time=30ms TTL=127
+26/03/2026 12:00:54,19 
+Reply from 10.35.17.26: bytes=32 time=14ms TTL=127
+26/03/2026 12:01:54,21 
+Reply from 10.35.17.26: bytes=32 time=89ms TTL=127
+26/03/2026 12:02:54,19 
+Reply from 10.35.17.26: bytes=32 time=14ms TTL=127
+26/03/2026 12:03:54,21 
+Reply from 10.35.17.26: bytes=32 time=15ms TTL=127
+26/03/2026 12:04:54,14 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+26/03/2026 12:05:54,19 
+Reply from 10.35.17.26: bytes=32 time=11ms TTL=127
+26/03/2026 12:06:54,21 
+Reply from 10.35.17.26: bytes=32 time=15ms TTL=127
+26/03/2026 12:07:54,12 
+Reply from 10.35.17.26: bytes=32 time=41ms TTL=127
+26/03/2026 12:08:54,16 
+Reply from 10.35.17.26: bytes=32 time=23ms TTL=127
+26/03/2026 12:09:54,15 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+26/03/2026 12:10:54,36 
+Reply from 10.35.17.26: bytes=32 time=17ms TTL=127
+26/03/2026 12:11:55,22 
+Reply from 10.35.17.26: bytes=32 time=15ms TTL=127
+26/03/2026 12:12:55,16 
+Reply from 10.35.17.26: bytes=32 time=36ms TTL=127
+26/03/2026 12:13:55,20 
+Reply from 10.35.17.26: bytes=32 time=15ms TTL=127
+26/03/2026 12:14:55,21 
+Reply from 10.35.17.26: bytes=32 time=14ms TTL=127
+26/03/2026 12:15:55,19 
+Reply from 10.35.17.26: bytes=32 time=17ms TTL=127
+26/03/2026 12:16:55,12 
+Reply from 10.35.17.26: bytes=32 time=15ms TTL=127
+26/03/2026 12:17:55,17 
+Reply from 10.35.17.26: bytes=32 time=14ms TTL=127
+26/03/2026 12:18:55,19 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+26/03/2026 12:19:55,20 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+26/03/2026 12:20:55,18 
+Reply from 10.35.17.26: bytes=32 time=11ms TTL=127
+26/03/2026 12:21:55,14 
+Reply from 10.35.17.26: bytes=32 time=14ms TTL=127
+26/03/2026 12:22:55,19 
+Reply from 10.35.17.26: bytes=32 time=17ms TTL=127
+26/03/2026 12:23:55,21 
+Reply from 10.35.17.26: bytes=32 time=22ms TTL=127
+26/03/2026 12:24:55,17 
+Reply from 10.35.17.26: bytes=32 time=13ms TTL=127
+26/03/2026 12:25:55,14 
+Reply from 10.35.17.26: bytes=32 time=13ms TTL=127
+26/03/2026 12:26:55,17 
+Reply from 10.35.17.26: bytes=32 time=17ms TTL=127
+26/03/2026 12:27:55,20 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+26/03/2026 12:28:55,14 
+Reply from 10.35.17.26: bytes=32 time=31ms TTL=127
+26/03/2026 12:29:55,13 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+26/03/2026 12:30:55,20 
+Reply from 10.35.17.26: bytes=32 time=11ms TTL=127
+26/03/2026 12:31:55,21 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+26/03/2026 12:32:55,11 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+26/03/2026 12:33:55,25 
+Reply from 10.35.17.26: bytes=32 time=22ms TTL=127
+26/03/2026 12:34:55,19 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+26/03/2026 12:35:55,16 
+Reply from 10.35.17.26: bytes=32 time=168ms TTL=127
+26/03/2026 12:36:55,14 
+Reply from 10.35.17.26: bytes=32 time=43ms TTL=127
+26/03/2026 12:37:55,14 
+Reply from 10.35.17.26: bytes=32 time=29ms TTL=127
+26/03/2026 12:38:55,12 
+Reply from 10.35.17.26: bytes=32 time=257ms TTL=127
+26/03/2026 12:39:55,12 
+Reply from 10.35.17.26: bytes=32 time=26ms TTL=127
+26/03/2026 12:40:55,14 
+Reply from 10.35.17.26: bytes=32 time=11ms TTL=127
+26/03/2026 12:41:55,13 
+Reply from 10.35.17.26: bytes=32 time=17ms TTL=127
+26/03/2026 12:42:55,13 
+Reply from 10.35.17.26: bytes=32 time=14ms TTL=127
+26/03/2026 12:43:55,16 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+26/03/2026 12:44:55,19 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+26/03/2026 12:45:55,17 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+26/03/2026 12:46:55,18 
+Reply from 10.35.17.26: bytes=32 time=17ms TTL=127
+26/03/2026 12:47:55,13 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+26/03/2026 12:48:55,11 
+Reply from 10.35.17.26: bytes=32 time=17ms TTL=127
+26/03/2026 12:49:55,12 
+Reply from 10.35.17.26: bytes=32 time=27ms TTL=127
+26/03/2026 12:50:55,21 
+Reply from 10.35.17.26: bytes=32 time=36ms TTL=127
+26/03/2026 12:51:55,17 
+Reply from 10.35.17.26: bytes=32 time=10ms TTL=127
+26/03/2026 12:52:55,16 
+Reply from 10.35.17.26: bytes=32 time=10ms TTL=127
+26/03/2026 12:53:55,16 
+Reply from 10.35.17.26: bytes=32 time=11ms TTL=127
+26/03/2026 12:54:55,19 
+Reply from 10.35.17.26: bytes=32 time=10ms TTL=127
+26/03/2026 12:55:55,16 
+Reply from 10.35.17.26: bytes=32 time=14ms TTL=127
+26/03/2026 12:56:55,17 
+Reply from 10.35.17.26: bytes=32 time=73ms TTL=127
+26/03/2026 12:57:55,19 
+Reply from 10.35.17.26: bytes=32 time=16ms TTL=127
+26/03/2026 12:58:55,17 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+26/03/2026 12:59:55,19 
+Reply from 10.35.17.26: bytes=32 time=13ms TTL=127
+26/03/2026 13:00:55,14 
+Reply from 10.35.17.26: bytes=32 time=125ms TTL=127
+26/03/2026 13:01:55,13 
+Reply from 10.35.17.26: bytes=32 time=11ms TTL=127
+26/03/2026 13:02:55,17 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+26/03/2026 13:03:55,18 
+Reply from 10.35.17.26: bytes=32 time=16ms TTL=127
+26/03/2026 13:04:55,13 
+Reply from 10.35.17.26: bytes=32 time=14ms TTL=127
+26/03/2026 13:05:55,15 
+Reply from 10.35.17.26: bytes=32 time=11ms TTL=127
+26/03/2026 13:06:55,18 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+26/03/2026 13:07:55,17 
+Reply from 10.35.17.26: bytes=32 time=13ms TTL=127
+26/03/2026 13:08:55,14 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+26/03/2026 13:09:55,18 
+Reply from 10.35.17.26: bytes=32 time=9ms TTL=127
+26/03/2026 13:10:55,14 
+Reply from 10.35.17.26: bytes=32 time=14ms TTL=127
+26/03/2026 13:11:55,20 
+Reply from 10.35.17.26: bytes=32 time=13ms TTL=127
+26/03/2026 13:12:55,21 
+Reply from 10.35.17.26: bytes=32 time=13ms TTL=127
+26/03/2026 13:13:55,11 
+Reply from 10.35.17.26: bytes=32 time=13ms TTL=127
+26/03/2026 13:14:55,11 
+Reply from 10.35.17.26: bytes=32 time=14ms TTL=127
+30/03/2026  7:53:07,71 
+Reply from 10.35.17.26: bytes=32 time=861ms TTL=127
+30/03/2026  7:54:08,21 
+Reply from 10.35.17.26: bytes=32 time=321ms TTL=127
+30/03/2026  7:55:08,14 
+Reply from 10.35.17.26: bytes=32 time=728ms TTL=127
+30/03/2026  7:56:08,19 
+30/03/2026  7:57:11,11 
+Reply from 10.35.17.26: bytes=32 time=2141ms TTL=127
+30/03/2026  7:58:13,14 
+Reply from 10.35.17.26: bytes=32 time=415ms TTL=127
+30/03/2026  7:59:13,12 
+Reply from 10.35.17.26: bytes=32 time=162ms TTL=127
+30/03/2026  8:00:13,13 
+Reply from 10.35.17.26: bytes=32 time=3161ms TTL=127
+30/03/2026  8:01:16,18 
+Reply from 10.35.17.26: bytes=32 time=366ms TTL=127
+30/03/2026  8:02:16,20 
+Reply from 10.35.17.26: bytes=32 time=366ms TTL=127
+30/03/2026  8:03:16,19 
+Reply from 10.35.17.26: bytes=32 time=175ms TTL=127
+30/03/2026  8:04:16,14 
+Reply from 10.35.17.26: bytes=32 time=954ms TTL=127
+30/03/2026  8:05:17,16 
+Reply from 10.35.17.26: bytes=32 time=748ms TTL=127
+30/03/2026  8:06:17,13 
+Reply from 10.35.17.26: bytes=32 time=588ms TTL=127
+30/03/2026  8:07:17,13 
+Reply from 10.35.17.26: bytes=32 time=191ms TTL=127
+30/03/2026  8:08:17,18 
+Reply from 10.35.17.26: bytes=32 time=543ms TTL=127
+30/03/2026  8:09:17,14 
+Reply from 10.35.17.26: bytes=32 time=2450ms TTL=127
+30/03/2026  8:10:19,16 
+30/03/2026  8:11:22,15 
+Reply from 10.35.17.26: bytes=32 time=216ms TTL=127
+30/03/2026  8:12:22,16 
+Reply from 10.35.17.26: bytes=32 time=160ms TTL=127
+30/03/2026  8:13:22,18 
+Reply from 10.35.17.26: bytes=32 time=406ms TTL=127
+30/03/2026  8:14:22,18 
+Reply from 10.35.17.26: bytes=32 time=17ms TTL=127
+30/03/2026  8:15:22,13 
+Reply from 10.35.17.26: bytes=32 time=683ms TTL=127
+30/03/2026  8:16:22,20 
+Reply from 10.35.17.26: bytes=32 time=934ms TTL=127
+30/03/2026  8:17:23,16 
+Reply from 10.35.17.26: bytes=32 time=169ms TTL=127
+30/03/2026  8:18:23,12 
+Reply from 10.35.17.26: bytes=32 time=2371ms TTL=127
+30/03/2026  8:19:25,21 
+Reply from 10.35.17.26: bytes=32 time=2113ms TTL=127
+30/03/2026  8:20:27,14 
+Reply from 10.35.17.26: bytes=32 time=2155ms TTL=127
+30/03/2026  8:21:29,16 
+Reply from 10.35.17.26: bytes=32 time=903ms TTL=127
+30/03/2026  8:22:30,16 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+30/03/2026  8:23:30,14 
+Reply from 10.35.17.26: bytes=32 time=234ms TTL=127
+30/03/2026  8:24:30,16 
+30/03/2026  8:25:33,20 
+30/03/2026  8:26:36,20 
+Reply from 10.35.17.26: bytes=32 time=1232ms TTL=127
+30/03/2026  8:27:37,20 
+Reply from 10.35.17.26: bytes=32 time=248ms TTL=127
+30/03/2026  8:28:37,18 
+Reply from 10.35.17.26: bytes=32 time=278ms TTL=127
+30/03/2026  8:29:37,14 
+Reply from 10.35.17.26: bytes=32 time=1050ms TTL=127
+30/03/2026  8:30:38,21 
+30/03/2026  8:31:41,16 
+Reply from 10.35.17.26: bytes=32 time=1134ms TTL=127
+30/03/2026  8:32:42,14 
+Reply from 10.35.17.26: bytes=32 time=658ms TTL=127
+30/03/2026  8:33:42,15 
+Reply from 10.35.17.26: bytes=32 time=150ms TTL=127
+30/03/2026  8:34:42,21 
+Reply from 10.35.17.26: bytes=32 time=811ms TTL=127
+30/03/2026  8:35:43,21 
+Reply from 10.35.17.26: bytes=32 time=430ms TTL=127
+30/03/2026  8:36:43,18 
+Reply from 10.35.17.26: bytes=32 time=98ms TTL=127
+30/03/2026  8:37:43,14 
+Reply from 10.35.17.26: bytes=32 time=164ms TTL=127
+30/03/2026  8:38:43,19 
+Reply from 10.35.17.26: bytes=32 time=1887ms TTL=127
+30/03/2026  8:39:45,17 
+Reply from 10.35.17.26: bytes=32 time=961ms TTL=127
+30/03/2026  8:40:46,10 
+Reply from 10.35.17.26: bytes=32 time=33ms TTL=127
+30/03/2026  8:41:46,13 
+Reply from 10.35.17.26: bytes=32 time=382ms TTL=127
+30/03/2026  8:42:46,16 
+Reply from 10.35.17.26: bytes=32 time=45ms TTL=127
+30/03/2026  8:43:46,17 
+Reply from 10.35.17.26: bytes=32 time=710ms TTL=127
+30/03/2026  8:44:46,16 
+Reply from 10.35.17.26: bytes=32 time=1543ms TTL=127
+30/03/2026  8:45:47,19 
+Reply from 10.35.17.26: bytes=32 time=48ms TTL=127
+30/03/2026  8:46:47,11 
+Reply from 10.35.17.26: bytes=32 time=20ms TTL=127
+30/03/2026  8:47:47,13 
+Reply from 10.35.17.26: bytes=32 time=495ms TTL=127
+30/03/2026  8:48:47,21 
+Reply from 10.35.17.26: bytes=32 time=140ms TTL=127
+30/03/2026  8:49:47,16 
+Reply from 10.35.17.26: bytes=32 time=696ms TTL=127
+30/03/2026  8:50:47,11 
+30/03/2026  8:51:50,17 
+Reply from 10.35.17.26: bytes=32 time=64ms TTL=127
+30/03/2026  8:52:50,18 
+Reply from 10.35.17.26: bytes=32 time=137ms TTL=127
+30/03/2026  8:53:50,16 
+Reply from 10.35.17.26: bytes=32 time=286ms TTL=127
+30/03/2026  8:54:50,19 
+Reply from 10.35.17.26: bytes=32 time=293ms TTL=127
+30/03/2026  8:55:50,20 
+Reply from 10.35.17.26: bytes=32 time=162ms TTL=127
+30/03/2026  8:56:50,16 
+Reply from 10.35.17.26: bytes=32 time=79ms TTL=127
+30/03/2026  8:57:50,20 
+Reply from 10.35.17.26: bytes=32 time=174ms TTL=127
+30/03/2026  8:58:50,21 
+Reply from 10.35.17.26: bytes=32 time=293ms TTL=127
+30/03/2026  8:59:50,14 
+Reply from 10.35.17.26: bytes=32 time=17ms TTL=127
+30/03/2026  9:00:50,15 
+Reply from 10.35.17.26: bytes=32 time=78ms TTL=127
+30/03/2026  9:01:50,20 
+30/03/2026  9:02:53,21 
+Reply from 10.35.17.26: bytes=32 time=80ms TTL=127
+30/03/2026  9:03:53,14 
+Reply from 10.35.17.26: bytes=32 time=452ms TTL=127
+30/03/2026  9:04:53,12 
+Reply from 10.35.17.26: bytes=32 time=188ms TTL=127
+30/03/2026  9:05:53,19 
+Reply from 10.35.17.26: bytes=32 time=221ms TTL=127
+30/03/2026  9:06:53,18 
+Reply from 10.35.17.26: bytes=32 time=17ms TTL=127
+30/03/2026  9:07:53,14 
+Reply from 10.35.17.26: bytes=32 time=586ms TTL=127
+30/03/2026  9:08:53,14 
+Reply from 10.35.17.26: bytes=32 time=388ms TTL=127
+30/03/2026  9:09:53,14 
+30/03/2026  9:10:56,14 
+Reply from 10.35.17.26: bytes=32 time=143ms TTL=127
+30/03/2026  9:11:56,18 
+Reply from 10.35.17.26: bytes=32 time=232ms TTL=127
+30/03/2026  9:12:56,16 
+Reply from 10.35.17.26: bytes=32 time=16ms TTL=127
+30/03/2026  9:13:56,13 
+Reply from 10.35.17.26: bytes=32 time=94ms TTL=127
+30/03/2026  9:14:56,20 
+Reply from 10.35.17.26: bytes=32 time=152ms TTL=127
+30/03/2026  9:15:56,17 
+Reply from 10.35.17.26: bytes=32 time=28ms TTL=127
+30/03/2026  9:16:56,13 
+Reply from 10.35.17.26: bytes=32 time=348ms TTL=127
+30/03/2026  9:17:56,14 
+30/03/2026  9:18:59,18 
+Reply from 10.35.17.26: bytes=32 time=2483ms TTL=127
+30/03/2026  9:20:01,16 
+Reply from 10.35.17.26: bytes=32 time=749ms TTL=127
+30/03/2026  9:21:01,20 
+Reply from 10.35.17.26: bytes=32 time=517ms TTL=127
+30/03/2026  9:22:01,19 
+Reply from 10.35.17.26: bytes=32 time=342ms TTL=127
+30/03/2026  9:23:01,20 
+30/03/2026  9:24:04,17 
+Reply from 10.35.17.26: bytes=32 time=2493ms TTL=127
+30/03/2026  9:25:06,21 
+Reply from 10.35.17.26: bytes=32 time=360ms TTL=127
+30/03/2026  9:26:06,19 
+Reply from 10.35.17.26: bytes=32 time=267ms TTL=127
+30/03/2026  9:27:06,17 
+Reply from 10.35.17.26: bytes=32 time=20ms TTL=127
+30/03/2026  9:28:06,16 
+30/03/2026  9:29:09,17 
+30/03/2026  9:30:12,19 
+30/03/2026  9:31:15,14 
+30/03/2026  9:32:18,17 
+Reply from 10.35.17.26: bytes=32 time=397ms TTL=127
+30/03/2026  9:33:18,19 
+30/03/2026  9:34:21,12 
+30/03/2026  9:35:24,17 
+30/03/2026  9:36:27,13 
+30/03/2026  9:37:30,11 
+30/03/2026  9:38:33,16 
+30/03/2026  9:39:36,30 
+30/03/2026  9:40:40,17 
+30/03/2026  9:41:43,15 
+30/03/2026  9:42:46,12 
+Reply from 10.35.17.26: bytes=32 time=2081ms TTL=127
+30/03/2026  9:43:48,14 
+Reply from 10.35.17.26: bytes=32 time=21ms TTL=127
+30/03/2026  9:44:48,21 
+30/03/2026  9:45:51,19 
+30/03/2026  9:46:54,15 
+30/03/2026  9:47:57,11 
+30/03/2026  9:49:00,17 
+30/03/2026  9:50:03,19 
+Reply from 10.35.17.26: bytes=32 time=29ms TTL=127
+30/03/2026  9:51:03,12 
+Reply from 10.35.17.26: bytes=32 time=120ms TTL=127
+30/03/2026  9:52:03,14 
+Reply from 10.35.17.26: bytes=32 time=29ms TTL=127
+30/03/2026  9:53:03,16 
+Reply from 10.35.17.26: bytes=32 time=1582ms TTL=127
+30/03/2026  9:54:04,21 
+Reply from 10.35.17.26: bytes=32 time=21ms TTL=127
+30/03/2026  9:55:04,14 
+30/03/2026  9:56:07,18 
+Reply from 10.35.17.26: bytes=32 time=251ms TTL=127
+30/03/2026  9:57:07,18 
+Reply from 10.35.17.26: bytes=32 time=952ms TTL=127
+30/03/2026  9:58:08,12 
+30/03/2026  9:59:11,18 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+30/03/2026 10:00:11,19 
+30/03/2026 10:01:14,17 
+Reply from 10.35.17.26: bytes=32 time=16ms TTL=127
+30/03/2026 10:02:14,13 
+Reply from 10.35.17.26: bytes=32 time=2947ms TTL=127
+30/03/2026 10:03:17,20 
+Reply from 10.35.17.26: bytes=32 time=18ms TTL=127
+30/03/2026 10:04:17,16 
+30/03/2026 10:05:20,17 
+30/03/2026 10:06:24,17 
+30/03/2026 10:07:27,15 
+30/03/2026 10:08:30,17 
+30/03/2026 10:09:33,13 
+30/03/2026 10:10:36,16 
+Reply from 10.35.17.26: bytes=32 time=29ms TTL=127
+30/03/2026 10:11:36,17 
+30/03/2026 10:12:39,14 
+30/03/2026 10:13:42,16 
+30/03/2026 10:14:45,11 
+Reply from 10.35.17.26: bytes=32 time=342ms TTL=127
+30/03/2026 10:15:45,11 
+Reply from 10.35.17.26: bytes=32 time=141ms TTL=127
+30/03/2026 10:16:45,27 
+Reply from 10.35.17.26: bytes=32 time=1237ms TTL=127
+30/03/2026 10:17:46,17 
+Reply from 10.35.17.26: bytes=32 time=20ms TTL=127
+30/03/2026 10:18:46,13 
+Reply from 10.35.17.26: bytes=32 time=293ms TTL=127
+30/03/2026 10:19:46,14 
+Reply from 10.35.17.26: bytes=32 time=174ms TTL=127
+30/03/2026 10:20:46,15 
+Reply from 10.35.17.26: bytes=32 time=1904ms TTL=127
+30/03/2026 10:21:48,12 
+Reply from 10.35.17.26: bytes=32 time=447ms TTL=127
+30/03/2026 10:22:48,18 
+Reply from 10.35.17.26: bytes=32 time=92ms TTL=127
+30/03/2026 10:23:48,13 
+Reply from 10.35.17.26: bytes=32 time=255ms TTL=127
+30/03/2026 10:24:48,14 
+Reply from 10.35.17.26: bytes=32 time=151ms TTL=127
+30/03/2026 10:25:48,14 
+Reply from 10.35.17.26: bytes=32 time=151ms TTL=127
+30/03/2026 10:26:48,15 
+Reply from 10.35.17.26: bytes=32 time=171ms TTL=127
+30/03/2026 10:27:48,13 
+Reply from 10.35.17.26: bytes=32 time=287ms TTL=127
+30/03/2026 10:28:48,17 
+Reply from 10.35.17.26: bytes=32 time=43ms TTL=127
+30/03/2026 10:29:48,16 
+Reply from 10.35.17.26: bytes=32 time=447ms TTL=127
+30/03/2026 10:30:48,14 
+Reply from 10.35.17.26: bytes=32 time=297ms TTL=127
+30/03/2026 10:31:48,14 
+30/03/2026 10:32:51,20 
+Reply from 10.35.17.26: bytes=32 time=38ms TTL=127
+30/03/2026 10:33:51,14 
+Reply from 10.35.17.26: bytes=32 time=187ms TTL=127
+30/03/2026 10:34:51,18 
+30/03/2026 10:35:54,19 
+Reply from 10.35.17.26: bytes=32 time=240ms TTL=127
+30/03/2026 10:36:54,15 
+Reply from 10.35.17.26: bytes=32 time=161ms TTL=127
+30/03/2026 10:37:54,12 
+Reply from 10.35.17.26: bytes=32 time=348ms TTL=127
+30/03/2026 10:38:54,14 
+Reply from 10.35.17.26: bytes=32 time=187ms TTL=127
+30/03/2026 10:39:54,21 
+Reply from 10.35.17.26: bytes=32 time=249ms TTL=127
+30/03/2026 10:40:54,14 
+Reply from 10.35.17.26: bytes=32 time=1355ms TTL=127
+30/03/2026 10:41:55,14 
+Reply from 10.35.17.26: bytes=32 time=18ms TTL=127
+30/03/2026 10:42:55,17 
+30/03/2026 10:43:58,12 
+Reply from 10.35.17.26: bytes=32 time=91ms TTL=127
+30/03/2026 10:44:58,18 
+Reply from 10.35.17.26: bytes=32 time=48ms TTL=127
+30/03/2026 10:45:58,16 
+Reply from 10.35.17.26: bytes=32 time=3516ms TTL=127
+30/03/2026 10:47:01,17 
+Reply from 10.35.17.26: bytes=32 time=286ms TTL=127
+30/03/2026 10:48:01,16 
+Reply from 10.35.17.26: bytes=32 time=98ms TTL=127
+30/03/2026 10:49:01,20 
+Reply from 10.35.17.26: bytes=32 time=198ms TTL=127
+30/03/2026 10:50:01,15 
+30/03/2026 10:51:04,11 
+Reply from 10.35.17.26: bytes=32 time=278ms TTL=127
+30/03/2026 10:52:04,22 
+Reply from 10.35.17.26: bytes=32 time=253ms TTL=127
+30/03/2026 10:53:04,19 
+Reply from 10.35.17.26: bytes=32 time=398ms TTL=127
+30/03/2026 10:54:04,17 
+Reply from 10.35.17.26: bytes=32 time=1154ms TTL=127
+30/03/2026 10:55:05,16 
+Reply from 10.35.17.26: bytes=32 time=158ms TTL=127
+30/03/2026 10:56:05,12 
+Reply from 10.35.17.26: bytes=32 time=103ms TTL=127
+30/03/2026 10:57:05,15 
+Reply from 10.35.17.26: bytes=32 time=2638ms TTL=127
+30/03/2026 10:58:07,11 
+Reply from 10.35.17.26: bytes=32 time=175ms TTL=127
+30/03/2026 10:59:07,15 
+Reply from 10.35.17.26: bytes=32 time=1498ms TTL=127
+30/03/2026 11:00:08,21 
+Reply from 10.35.17.26: bytes=32 time=631ms TTL=127
+30/03/2026 11:01:08,19 
+Reply from 10.35.17.26: bytes=32 time=2308ms TTL=127
+30/03/2026 11:02:10,17 
+Reply from 10.35.17.26: bytes=32 time=213ms TTL=127
+30/03/2026 11:03:10,20 
+Reply from 10.35.17.26: bytes=32 time=512ms TTL=127
+30/03/2026 11:04:10,15 
+Reply from 10.35.17.26: bytes=32 time=257ms TTL=127
+30/03/2026 11:05:10,20 
+Reply from 10.35.17.26: bytes=32 time=212ms TTL=127
+30/03/2026 11:06:10,11 
+30/03/2026 11:07:13,22 
+Reply from 10.35.17.26: bytes=32 time=406ms TTL=127
+30/03/2026 11:08:13,15 
+Reply from 10.35.17.26: bytes=32 time=319ms TTL=127
+30/03/2026 11:09:13,12 
+Reply from 10.35.17.26: bytes=32 time=498ms TTL=127
+30/03/2026 11:10:13,19 
+Reply from 10.35.17.26: bytes=32 time=18ms TTL=127
+30/03/2026 11:11:13,14 
+Reply from 10.35.17.26: bytes=32 time=191ms TTL=127
+30/03/2026 11:12:13,12 
+Reply from 10.35.17.26: bytes=32 time=184ms TTL=127
+30/03/2026 11:13:13,18 
+Reply from 10.35.17.26: bytes=32 time=378ms TTL=127
+30/03/2026 11:14:13,14 
+Reply from 10.35.17.26: bytes=32 time=407ms TTL=127
+30/03/2026 11:15:13,18 
+Reply from 10.35.17.26: bytes=32 time=278ms TTL=127
+30/03/2026 11:16:13,12 
+Reply from 10.35.17.26: bytes=32 time=17ms TTL=127
+30/03/2026 11:17:13,15 
+Reply from 10.35.17.26: bytes=32 time=10ms TTL=127
+30/03/2026 11:18:13,15 
+Reply from 10.35.17.26: bytes=32 time=338ms TTL=127
+30/03/2026 11:19:13,21 
+Reply from 10.35.17.26: bytes=32 time=184ms TTL=127
+30/03/2026 11:20:13,18 
+Reply from 10.35.17.26: bytes=32 time=359ms TTL=127
+30/03/2026 11:21:13,13 
+Reply from 10.35.17.26: bytes=32 time=252ms TTL=127
+30/03/2026 11:22:13,17 
+Reply from 10.35.17.26: bytes=32 time=13ms TTL=127
+30/03/2026 11:23:13,17 
+Reply from 10.35.17.26: bytes=32 time=356ms TTL=127
+30/03/2026 11:24:13,20 
+Reply from 10.35.17.26: bytes=32 time=113ms TTL=127
+30/03/2026 11:25:13,12 
+Reply from 10.35.17.26: bytes=32 time=109ms TTL=127
+30/03/2026 11:26:13,14 
+Reply from 10.35.17.26: bytes=32 time=14ms TTL=127
+30/03/2026 11:27:13,16 
+Reply from 10.35.17.26: bytes=32 time=388ms TTL=127
+30/03/2026 11:28:13,16 
+Reply from 10.35.17.26: bytes=32 time=198ms TTL=127
+30/03/2026 11:29:13,17 
+Reply from 10.35.17.26: bytes=32 time=167ms TTL=127
+30/03/2026 11:30:13,21 
+Reply from 10.35.17.26: bytes=32 time=259ms TTL=127
+30/03/2026 11:31:13,21 
+Reply from 10.35.17.26: bytes=32 time=20ms TTL=127
+30/03/2026 11:32:13,21 
+Reply from 10.35.17.26: bytes=32 time=168ms TTL=127
+30/03/2026 11:33:13,18 
+Reply from 10.35.17.26: bytes=32 time=103ms TTL=127
+30/03/2026 11:34:13,12 
+Reply from 10.35.17.26: bytes=32 time=73ms TTL=127
+30/03/2026 11:35:13,13 
+Reply from 10.35.17.26: bytes=32 time=10ms TTL=127
+30/03/2026 11:36:13,18 
+Reply from 10.35.17.26: bytes=32 time=13ms TTL=127
+30/03/2026 11:37:13,16 
+Reply from 10.35.17.26: bytes=32 time=261ms TTL=127
+30/03/2026 11:38:13,20 
+Reply from 10.35.17.26: bytes=32 time=115ms TTL=127
+30/03/2026 11:39:13,13 
+Reply from 10.35.17.26: bytes=32 time=25ms TTL=127
+30/03/2026 11:40:13,12 
+Reply from 10.35.17.26: bytes=32 time=13ms TTL=127
+30/03/2026 11:41:13,12 
+Reply from 10.35.17.26: bytes=32 time=230ms TTL=127
+30/03/2026 11:42:13,20 
+Reply from 10.35.17.26: bytes=32 time=60ms TTL=127
+30/03/2026 11:43:13,17 
+Reply from 10.35.17.26: bytes=32 time=11ms TTL=127
+30/03/2026 11:44:13,19 
+Reply from 10.35.17.26: bytes=32 time=173ms TTL=127
+30/03/2026 11:45:13,17 
+Reply from 10.35.17.26: bytes=32 time=94ms TTL=127
+30/03/2026 11:46:13,11 
+Reply from 10.35.17.26: bytes=32 time=175ms TTL=127
+30/03/2026 11:47:13,15 
+30/03/2026 11:48:16,19 
+Reply from 10.35.17.26: bytes=32 time=14ms TTL=127
+30/03/2026 11:49:16,17 
+30/03/2026 11:50:19,20 
+Reply from 10.35.17.26: bytes=32 time=11ms TTL=127
+30/03/2026 11:51:19,18 
+Reply from 10.35.17.26: bytes=32 time=33ms TTL=127
+30/03/2026 11:52:19,11 
+Reply from 10.35.17.26: bytes=32 time=961ms TTL=127
+30/03/2026 11:53:20,19 
+Reply from 10.35.17.26: bytes=32 time=77ms TTL=127
+30/03/2026 11:54:20,17 
+Reply from 10.35.17.26: bytes=32 time=24ms TTL=127
+30/03/2026 11:55:20,11 
+Reply from 10.35.17.26: bytes=32 time=17ms TTL=127
+30/03/2026 11:56:20,11 
+Reply from 10.35.17.26: bytes=32 time=753ms TTL=127
+30/03/2026 11:57:20,13 
+Reply from 10.35.17.26: bytes=32 time=58ms TTL=127
+30/03/2026 11:58:20,16 
+Reply from 10.35.17.26: bytes=32 time=15ms TTL=127
+30/03/2026 11:59:20,18 
+Reply from 10.35.17.26: bytes=32 time=56ms TTL=127
+30/03/2026 12:00:20,12 
+Reply from 10.35.17.26: bytes=32 time=35ms TTL=127
+30/03/2026 12:01:20,21 
+Reply from 10.35.17.26: bytes=32 time=1517ms TTL=127
+30/03/2026 12:02:21,19 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+30/03/2026 12:03:21,21 
+Reply from 10.35.17.26: bytes=32 time=17ms TTL=127
+30/03/2026 12:04:21,20 
+Reply from 10.35.17.26: bytes=32 time=310ms TTL=127
+30/03/2026 12:05:21,21 
+Reply from 10.35.17.26: bytes=32 time=81ms TTL=127
+30/03/2026 12:06:21,17 
+Reply from 10.35.17.26: bytes=32 time=14ms TTL=127
+30/03/2026 12:07:21,18 
+Reply from 10.35.17.26: bytes=32 time=14ms TTL=127
+30/03/2026 12:08:21,18 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+30/03/2026 12:09:21,19 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+30/03/2026 12:10:21,22 
+Reply from 10.35.17.26: bytes=32 time=13ms TTL=127
+30/03/2026 12:11:21,18 
+Reply from 10.35.17.26: bytes=32 time=171ms TTL=127
+30/03/2026 12:12:21,12 
+Reply from 10.35.17.26: bytes=32 time=18ms TTL=127
+30/03/2026 12:13:21,16 
+Reply from 10.35.17.26: bytes=32 time=13ms TTL=127
+30/03/2026 12:14:21,11 
+Reply from 10.35.17.26: bytes=32 time=13ms TTL=127
+30/03/2026 12:15:21,13 
+30/03/2026 12:16:24,16 
+30/03/2026 12:17:27,20 
+30/03/2026 12:18:30,21 
+30/03/2026 12:19:33,14 
+Reply from 10.35.17.26: bytes=32 time=216ms TTL=127
+30/03/2026 12:20:33,19 
+Reply from 10.35.17.26: bytes=32 time=932ms TTL=127
+30/03/2026 12:21:34,20 
+Reply from 10.35.17.26: bytes=32 time=67ms TTL=127
+30/03/2026 12:22:34,22 
+Reply from 10.35.17.26: bytes=32 time=13ms TTL=127
+30/03/2026 12:23:34,17 
+Reply from 10.35.17.26: bytes=32 time=37ms TTL=127
+30/03/2026 12:24:34,22 
+Reply from 10.35.17.26: bytes=32 time=26ms TTL=127
+30/03/2026 12:25:34,21 
+Reply from 10.35.17.26: bytes=32 time=31ms TTL=127
+30/03/2026 12:27:01,60 
+30/03/2026 12:28:06,20 
+Reply from 10.35.17.26: bytes=32 time=14ms TTL=127
+30/03/2026 12:29:06,14 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+30/03/2026 12:30:06,14 
+Reply from 10.35.17.26: bytes=32 time=44ms TTL=127
+30/03/2026 12:31:06,19 
+Reply from 10.35.17.26: bytes=32 time=20ms TTL=127
+30/03/2026 12:32:06,12 
+Reply from 10.35.17.26: bytes=32 time=13ms TTL=127
+30/03/2026 12:33:06,12 
+Reply from 10.35.17.26: bytes=32 time=13ms TTL=127
+30/03/2026 12:34:06,13 
+Reply from 10.35.17.26: bytes=32 time=252ms TTL=127
+30/03/2026 12:35:06,13 
+Reply from 10.35.17.26: bytes=32 time=14ms TTL=127
+30/03/2026 12:36:06,14 
+Reply from 10.35.17.26: bytes=32 time=54ms TTL=127
+30/03/2026 12:37:06,19 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+30/03/2026 12:38:06,14 
+Reply from 10.35.17.26: bytes=32 time=11ms TTL=127
+30/03/2026 12:39:06,11 
+Reply from 10.35.17.26: bytes=32 time=11ms TTL=127
+30/03/2026 12:40:06,14 
+Reply from 10.35.17.26: bytes=32 time=11ms TTL=127
+30/03/2026 12:41:06,19 
+Reply from 10.35.17.26: bytes=32 time=73ms TTL=127
+30/03/2026 12:42:06,15 
+Reply from 10.35.17.26: bytes=32 time=21ms TTL=127
+30/03/2026 12:43:06,16 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+30/03/2026 12:44:06,15 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+30/03/2026 12:45:06,20 
+Reply from 10.35.17.26: bytes=32 time=11ms TTL=127
+30/03/2026 12:46:06,18 
+Reply from 10.35.17.26: bytes=32 time=18ms TTL=127
+30/03/2026 12:47:06,19 
+Reply from 10.35.17.26: bytes=32 time=11ms TTL=127
+30/03/2026 12:48:06,21 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+30/03/2026 12:49:06,11 
+Reply from 10.35.17.26: bytes=32 time=11ms TTL=127
+30/03/2026 12:50:06,12 
+Reply from 10.35.17.26: bytes=32 time=11ms TTL=127
+30/03/2026 12:51:06,21 
+Reply from 10.35.17.26: bytes=32 time=13ms TTL=127
+30/03/2026 12:52:06,16 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+30/03/2026 12:53:06,11 
+Reply from 10.35.17.26: bytes=32 time=14ms TTL=127
+30/03/2026 12:54:06,15 
+Reply from 10.35.17.26: bytes=32 time=11ms TTL=127
+30/03/2026 12:55:06,19 
+Reply from 10.35.17.26: bytes=32 time=11ms TTL=127
+30/03/2026 12:56:06,17 
+Reply from 10.35.17.26: bytes=32 time=11ms TTL=127
+30/03/2026 12:57:06,13 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+30/03/2026 12:58:06,15 
+Reply from 10.35.17.26: bytes=32 time=7ms TTL=127
+30/03/2026 12:59:06,19 
+Reply from 10.35.17.26: bytes=32 time=18ms TTL=127
+30/03/2026 13:00:06,12 
+Reply from 10.35.17.26: bytes=32 time=112ms TTL=127
+30/03/2026 13:01:06,21 
+Reply from 10.35.17.26: bytes=32 time=908ms TTL=127
+30/03/2026 13:02:07,10 
+Reply from 10.35.17.26: bytes=32 time=22ms TTL=127
+30/03/2026 13:03:07,13 
+Reply from 10.35.17.26: bytes=32 time=947ms TTL=127
+30/03/2026 13:04:08,13 
+Reply from 10.35.17.26: bytes=32 time=22ms TTL=127
+30/03/2026 13:05:08,12 
+Reply from 10.35.17.26: bytes=32 time=16ms TTL=127
+30/03/2026 13:06:08,22 
+30/03/2026 13:07:11,22 
+Reply from 10.35.17.26: bytes=32 time=11ms TTL=127
+30/03/2026 13:08:11,17 
+Reply from 10.35.17.26: bytes=32 time=10ms TTL=127
+30/03/2026 13:09:11,12 
+Reply from 10.35.17.26: bytes=32 time=237ms TTL=127
+30/03/2026 13:10:11,14 
+Reply from 10.35.17.26: bytes=32 time=11ms TTL=127
+30/03/2026 13:11:11,20 
+Reply from 10.35.17.26: bytes=32 time=312ms TTL=127
+30/03/2026 13:12:11,15 
+Reply from 10.35.17.26: bytes=32 time=18ms TTL=127
+30/03/2026 13:13:11,16 
+Reply from 10.35.17.26: bytes=32 time=86ms TTL=127
+30/03/2026 13:14:11,12 
+Reply from 10.35.17.26: bytes=32 time=147ms TTL=127
+30/03/2026 13:15:11,19 
+Reply from 10.35.17.26: bytes=32 time=15ms TTL=127
+30/03/2026 13:16:11,16 
+Reply from 10.35.17.26: bytes=32 time=11ms TTL=127
+30/03/2026 13:17:11,19 
+Reply from 10.35.17.26: bytes=32 time=11ms TTL=127
+30/03/2026 13:18:11,10 
+Reply from 10.35.17.26: bytes=32 time=115ms TTL=127
+30/03/2026 13:19:11,20 
+Reply from 10.35.17.26: bytes=32 time=16ms TTL=127
+30/03/2026 13:20:11,12 
+Reply from 10.35.17.26: bytes=32 time=20ms TTL=127
+30/03/2026 13:21:11,14 
+Reply from 10.35.17.26: bytes=32 time=19ms TTL=127
+30/03/2026 13:22:11,16 
+Reply from 10.35.17.26: bytes=32 time=21ms TTL=127
+30/03/2026 13:23:11,15 
+Reply from 10.35.17.26: bytes=32 time=43ms TTL=127
+30/03/2026 13:24:11,22 
+Reply from 10.35.17.26: bytes=32 time=15ms TTL=127
+31/03/2026  7:32:08,91 
+Reply from 10.35.17.26: bytes=32 time=160ms TTL=127
+31/03/2026  7:33:09,16 
+Reply from 10.35.17.26: bytes=32 time=159ms TTL=127
+31/03/2026  7:34:09,11 
+Reply from 10.35.17.26: bytes=32 time=102ms TTL=127
+31/03/2026  7:35:09,23 
+Reply from 10.35.17.26: bytes=32 time=189ms TTL=127
+31/03/2026  7:36:09,16 
+Reply from 10.35.17.26: bytes=32 time=86ms TTL=127
+31/03/2026  7:37:09,11 
+Reply from 10.35.17.26: bytes=32 time=116ms TTL=127
+31/03/2026  7:38:09,18 
+Reply from 10.35.17.26: bytes=32 time=289ms TTL=127
+31/03/2026  7:39:09,19 
+Reply from 10.35.17.26: bytes=32 time=159ms TTL=127
+31/03/2026  7:40:09,19 
+Reply from 10.35.17.26: bytes=32 time=166ms TTL=127
+31/03/2026  7:41:09,15 
+Reply from 10.35.17.26: bytes=32 time=197ms TTL=127
+31/03/2026  7:42:09,18 
+Reply from 10.35.17.26: bytes=32 time=90ms TTL=127
+31/03/2026  7:43:09,15 
+Reply from 10.35.17.26: bytes=32 time=131ms TTL=127
+31/03/2026  7:44:09,18 
+Reply from 10.35.17.26: bytes=32 time=107ms TTL=127
+31/03/2026  7:45:09,12 
+Reply from 10.35.17.26: bytes=32 time=98ms TTL=127
+31/03/2026  7:46:09,19 
+Reply from 10.35.17.26: bytes=32 time=118ms TTL=127
+31/03/2026  7:47:09,15 
+Reply from 10.35.17.26: bytes=32 time=167ms TTL=127
+31/03/2026  7:48:09,13 
+Reply from 10.35.17.26: bytes=32 time=103ms TTL=127
+31/03/2026  7:49:09,17 
+Reply from 10.35.17.26: bytes=32 time=156ms TTL=127
+31/03/2026  7:50:09,19 
+Reply from 10.35.17.26: bytes=32 time=152ms TTL=127
+31/03/2026  7:51:09,21 
+Reply from 10.35.17.26: bytes=32 time=143ms TTL=127
+31/03/2026  7:52:09,14 
+Reply from 10.35.17.26: bytes=32 time=70ms TTL=127
+31/03/2026  7:53:09,15 
+Reply from 10.35.17.26: bytes=32 time=98ms TTL=127
+31/03/2026  7:54:09,12 
+Reply from 10.35.17.26: bytes=32 time=165ms TTL=127
+31/03/2026  7:55:09,16 
+Reply from 10.35.17.26: bytes=32 time=115ms TTL=127
+31/03/2026  7:56:09,20 
+Reply from 10.35.17.26: bytes=32 time=194ms TTL=127
+31/03/2026  7:57:09,21 
+Reply from 10.35.17.26: bytes=32 time=190ms TTL=127
+31/03/2026  7:58:09,17 
+Reply from 10.35.17.26: bytes=32 time=130ms TTL=127
+31/03/2026  7:59:09,18 
+Reply from 10.35.17.26: bytes=32 time=132ms TTL=127
+31/03/2026  8:00:09,19 
+Reply from 10.35.17.26: bytes=32 time=128ms TTL=127
+31/03/2026  8:01:09,15 
+Reply from 10.35.17.26: bytes=32 time=165ms TTL=127
+31/03/2026  8:02:09,15 
+Reply from 10.35.17.26: bytes=32 time=166ms TTL=127
+31/03/2026  8:03:09,19 
+Reply from 10.35.17.26: bytes=32 time=140ms TTL=127
+31/03/2026  8:04:09,11 
+Reply from 10.35.17.26: bytes=32 time=120ms TTL=127
+31/03/2026  8:05:09,18 
+Reply from 10.35.17.26: bytes=32 time=184ms TTL=127
+31/03/2026  8:06:09,14 
+Reply from 10.35.17.26: bytes=32 time=115ms TTL=127
+31/03/2026  8:07:09,17 
+Reply from 10.35.17.26: bytes=32 time=121ms TTL=127
+31/03/2026  8:08:09,19 
+Reply from 10.35.17.26: bytes=32 time=89ms TTL=127
+31/03/2026  8:09:09,17 
+Reply from 10.35.17.26: bytes=32 time=223ms TTL=127
+31/03/2026  8:10:09,19 
+Reply from 10.35.17.26: bytes=32 time=103ms TTL=127
+31/03/2026  8:11:09,12 
+Reply from 10.35.17.26: bytes=32 time=290ms TTL=127
+31/03/2026  8:12:09,17 
+Reply from 10.35.17.26: bytes=32 time=79ms TTL=127
+31/03/2026  8:13:09,17 
+Reply from 10.35.17.26: bytes=32 time=350ms TTL=127
+31/03/2026  8:14:09,18 
+31/03/2026  8:15:12,13 
+Reply from 10.35.17.26: bytes=32 time=190ms TTL=127
+31/03/2026  8:16:12,20 
+31/03/2026  8:17:15,21 
+Reply from 10.35.17.26: bytes=32 time=136ms TTL=127
+31/03/2026  8:18:15,13 
+Reply from 10.35.17.26: bytes=32 time=101ms TTL=127
+31/03/2026  8:19:15,21 
+Reply from 10.35.17.26: bytes=32 time=133ms TTL=127
+31/03/2026  8:20:15,16 
+Reply from 10.35.17.26: bytes=32 time=197ms TTL=127
+31/03/2026  8:21:15,15 
+Reply from 10.35.17.26: bytes=32 time=107ms TTL=127
+31/03/2026  8:22:15,15 
+Reply from 10.35.17.26: bytes=32 time=110ms TTL=127
+31/03/2026  8:23:15,18 
+Reply from 10.35.17.26: bytes=32 time=193ms TTL=127
+31/03/2026  8:24:15,19 
+Reply from 10.35.17.26: bytes=32 time=92ms TTL=127
+31/03/2026  8:25:15,17 
+31/03/2026  8:26:18,13 
+31/03/2026  8:27:21,17 
+31/03/2026  8:28:24,18 
+31/03/2026  8:29:27,17 
+31/03/2026  8:30:30,14 
+31/03/2026  8:31:33,14 
+31/03/2026  8:32:36,14 
+31/03/2026  8:33:39,15 
+31/03/2026  8:34:42,12 
+31/03/2026  8:35:45,19 
+31/03/2026  8:36:48,13 
+31/03/2026  8:37:51,11 
+31/03/2026  8:38:54,11 
+31/03/2026  8:39:57,13 
+31/03/2026  8:41:00,17 
+31/03/2026  8:42:03,20 
+31/03/2026  8:43:06,18 
+31/03/2026  8:44:09,10 
+31/03/2026  8:45:12,19 
+31/03/2026  8:46:15,14 
+31/03/2026  8:47:18,14 
+Reply from 10.35.17.26: bytes=32 time=2354ms TTL=127
+31/03/2026  8:48:20,20 
+31/03/2026  8:49:23,16 
+Reply from 10.35.17.26: bytes=32 time=139ms TTL=127
+31/03/2026  8:50:23,21 
+Reply from 10.35.17.26: bytes=32 time=329ms TTL=127
+31/03/2026  8:51:23,18 
+31/03/2026  8:52:26,12 
+31/03/2026  8:53:29,15 
+Reply from 10.35.17.26: bytes=32 time=139ms TTL=127
+31/03/2026  8:54:29,20 
+Reply from 10.35.17.26: bytes=32 time=497ms TTL=127
+31/03/2026  8:55:29,17 
+Reply from 10.35.17.26: bytes=32 time=21ms TTL=127
+31/03/2026  8:56:29,13 
+Reply from 10.35.17.26: bytes=32 time=292ms TTL=127
+31/03/2026  8:57:29,17 
+Reply from 10.35.17.26: bytes=32 time=18ms TTL=127
+31/03/2026  8:58:29,15 
+Reply from 10.35.17.26: bytes=32 time=468ms TTL=127
+31/03/2026  8:59:29,12 
+Reply from 10.35.17.26: bytes=32 time=315ms TTL=127
+31/03/2026  9:00:29,16 
+Reply from 10.35.17.26: bytes=32 time=48ms TTL=127
+31/03/2026  9:01:29,15 
+Reply from 10.35.17.26: bytes=32 time=53ms TTL=127
+31/03/2026  9:02:29,20 
+Reply from 10.35.17.26: bytes=32 time=461ms TTL=127
+31/03/2026  9:03:29,14 
+Reply from 10.35.17.26: bytes=32 time=97ms TTL=127
+31/03/2026  9:04:29,21 
+Reply from 10.35.17.26: bytes=32 time=166ms TTL=127
+31/03/2026  9:05:29,14 
+Reply from 10.35.17.26: bytes=32 time=252ms TTL=127
+31/03/2026  9:06:29,13 
+Reply from 10.35.17.26: bytes=32 time=135ms TTL=127
+31/03/2026  9:07:29,20 
+Reply from 10.35.17.26: bytes=32 time=401ms TTL=127
+31/03/2026  9:08:29,15 
+31/03/2026  9:09:32,20 
+Reply from 10.35.17.26: bytes=32 time=13ms TTL=127
+31/03/2026  9:10:32,11 
+Reply from 10.35.17.26: bytes=32 time=285ms TTL=127
+31/03/2026  9:11:32,17 
+Reply from 10.35.17.26: bytes=32 time=234ms TTL=127
+31/03/2026  9:12:32,15 
+31/03/2026  9:13:35,18 
+Reply from 10.35.17.26: bytes=32 time=256ms TTL=127
+31/03/2026  9:14:35,13 
+Reply from 10.35.17.26: bytes=32 time=85ms TTL=127
+31/03/2026  9:15:35,11 
+Reply from 10.35.17.26: bytes=32 time=186ms TTL=127
+31/03/2026  9:16:35,18 
+Reply from 10.35.17.26: bytes=32 time=546ms TTL=127
+31/03/2026  9:17:35,21 
+Reply from 10.35.17.26: bytes=32 time=172ms TTL=127
+31/03/2026  9:18:35,19 
+Reply from 10.35.17.26: bytes=32 time=1350ms TTL=127
+31/03/2026  9:19:36,21 
+Reply from 10.35.17.26: bytes=32 time=13ms TTL=127
+31/03/2026  9:20:36,18 
+Reply from 10.35.17.26: bytes=32 time=488ms TTL=127
+31/03/2026  9:21:36,11 
+31/03/2026  9:22:39,12 
+31/03/2026  9:23:42,13 
+31/03/2026  9:24:45,18 
+Reply from 10.35.17.26: bytes=32 time=364ms TTL=127
+31/03/2026  9:25:45,20 
+31/03/2026  9:26:48,12 
+31/03/2026  9:27:51,16 
+31/03/2026  9:28:54,16 
+31/03/2026  9:29:57,20 
+Reply from 10.35.17.26: bytes=32 time=2001ms TTL=127
+31/03/2026  9:30:59,15 
+Reply from 10.35.17.26: bytes=32 time=71ms TTL=127
+31/03/2026  9:31:59,20 
+Reply from 10.35.17.26: bytes=32 time=762ms TTL=127
+31/03/2026  9:33:00,20 
+Reply from 10.35.17.26: bytes=32 time=2695ms TTL=127
+31/03/2026  9:34:02,12 
+31/03/2026  9:35:05,11 
+Reply from 10.35.17.26: bytes=32 time=1690ms TTL=127
+31/03/2026  9:36:06,13 
+Reply from 10.35.17.26: bytes=32 time=668ms TTL=127
+31/03/2026  9:37:06,14 
+Reply from 10.35.17.26: bytes=32 time=1522ms TTL=127
+31/03/2026  9:38:07,13 
+Reply from 10.35.17.26: bytes=32 time=887ms TTL=127
+31/03/2026  9:39:08,19 
+Reply from 10.35.17.26: bytes=32 time=960ms TTL=127
+31/03/2026  9:40:09,15 
+Reply from 10.35.17.26: bytes=32 time=368ms TTL=127
+31/03/2026  9:41:09,15 
+Reply from 10.35.17.26: bytes=32 time=756ms TTL=127
+31/03/2026  9:42:09,17 
+Reply from 10.35.17.26: bytes=32 time=1842ms TTL=127
+31/03/2026  9:43:11,14 
+Reply from 10.35.17.26: bytes=32 time=95ms TTL=127
+31/03/2026  9:44:11,19 
+Reply from 10.35.17.26: bytes=32 time=101ms TTL=127
+31/03/2026  9:45:11,14 
+Reply from 10.35.17.26: bytes=32 time=79ms TTL=127
+31/03/2026  9:46:11,19 
+Reply from 10.35.17.26: bytes=32 time=1571ms TTL=127
+31/03/2026  9:47:12,19 
+Reply from 10.35.17.26: bytes=32 time=595ms TTL=127
+31/03/2026  9:48:12,11 
+31/03/2026  9:49:15,12 
+31/03/2026  9:50:18,11 
+Reply from 10.35.17.26: bytes=32 time=301ms TTL=127
+31/03/2026  9:51:18,14 
+Reply from 10.35.17.26: bytes=32 time=89ms TTL=127
+31/03/2026  9:52:18,15 
+Reply from 10.35.17.26: bytes=32 time=281ms TTL=127
+31/03/2026  9:53:18,15 
+Reply from 10.35.17.26: bytes=32 time=328ms TTL=127
+31/03/2026  9:54:18,14 
+31/03/2026  9:55:21,13 
+Reply from 10.35.17.26: bytes=32 time=506ms TTL=127
+31/03/2026  9:56:21,14 
+Reply from 10.35.17.26: bytes=32 time=966ms TTL=127
+31/03/2026  9:57:22,11 
+Reply from 10.35.17.26: bytes=32 time=524ms TTL=127
+31/03/2026  9:58:22,15 
+Reply from 10.35.17.26: bytes=32 time=589ms TTL=127
+31/03/2026  9:59:22,16 
+Reply from 10.35.17.26: bytes=32 time=1457ms TTL=127
+31/03/2026 10:00:23,12 
+Reply from 10.35.17.26: bytes=32 time=133ms TTL=127
+31/03/2026 10:01:23,14 
+Reply from 10.35.17.26: bytes=32 time=113ms TTL=127
+31/03/2026 10:02:23,11 
+Reply from 10.35.17.26: bytes=32 time=370ms TTL=127
+31/03/2026 10:03:23,13 
+Reply from 10.35.17.26: bytes=32 time=68ms TTL=127
+31/03/2026 10:04:23,21 
+Reply from 10.35.17.26: bytes=32 time=99ms TTL=127
+31/03/2026 10:05:23,13 
+Reply from 10.35.17.26: bytes=32 time=145ms TTL=127
+31/03/2026 10:06:23,15 
+Reply from 10.35.17.26: bytes=32 time=1315ms TTL=127
+31/03/2026 10:07:24,14 
+Reply from 10.35.17.26: bytes=32 time=674ms TTL=127
+31/03/2026 10:08:24,15 
+Reply from 10.35.17.26: bytes=32 time=1748ms TTL=127
+31/03/2026 10:09:25,15 
+Reply from 10.35.17.26: bytes=32 time=253ms TTL=127
+31/03/2026 10:10:25,19 
+Reply from 10.35.17.26: bytes=32 time=1358ms TTL=127
+31/03/2026 10:11:26,19 
+Reply from 10.35.17.26: bytes=32 time=967ms TTL=127
+31/03/2026 10:12:27,15 
+Reply from 10.35.17.26: bytes=32 time=680ms TTL=127
+31/03/2026 10:13:27,21 
+Reply from 10.35.17.26: bytes=32 time=67ms TTL=127
+31/03/2026 10:14:27,14 
+Reply from 10.35.17.26: bytes=32 time=473ms TTL=127
+31/03/2026 10:15:27,18 
+Reply from 10.35.17.26: bytes=32 time=2382ms TTL=127
+31/03/2026 10:16:29,12 
+Reply from 10.35.17.26: bytes=32 time=467ms TTL=127
+31/03/2026 10:17:29,20 
+Reply from 10.35.17.26: bytes=32 time=87ms TTL=127
+31/03/2026 10:18:29,12 
+Reply from 10.35.17.26: bytes=32 time=1272ms TTL=127
+31/03/2026 10:19:30,14 
+Reply from 10.35.17.26: bytes=32 time=2834ms TTL=127
+31/03/2026 10:20:33,17 
+Reply from 10.35.17.26: bytes=32 time=126ms TTL=127
+31/03/2026 10:21:33,16 
+Reply from 10.35.17.26: bytes=32 time=272ms TTL=127
+31/03/2026 10:22:33,18 
+Reply from 10.35.17.26: bytes=32 time=768ms TTL=127
+31/03/2026 10:23:34,20 
+Reply from 10.35.17.26: bytes=32 time=115ms TTL=127
+31/03/2026 10:24:34,20 
+Reply from 10.35.17.26: bytes=32 time=539ms TTL=127
+31/03/2026 10:25:34,13 
+Reply from 10.35.17.26: bytes=32 time=68ms TTL=127
+31/03/2026 10:26:34,20 
+Reply from 10.35.17.26: bytes=32 time=337ms TTL=127
+31/03/2026 10:27:34,13 
+Reply from 10.35.17.26: bytes=32 time=312ms TTL=127
+31/03/2026 10:28:34,15 
+Reply from 10.35.17.26: bytes=32 time=2199ms TTL=127
+31/03/2026 10:29:36,20 
+Reply from 10.35.17.26: bytes=32 time=983ms TTL=127
+31/03/2026 10:30:37,13 
+Reply from 10.35.17.26: bytes=32 time=324ms TTL=127
+31/03/2026 10:31:37,15 
+Reply from 10.35.17.26: bytes=32 time=277ms TTL=127
+31/03/2026 10:32:37,10 
+Reply from 10.35.17.26: bytes=32 time=826ms TTL=127
+31/03/2026 10:33:37,12 
+Reply from 10.35.17.26: bytes=32 time=90ms TTL=127
+31/03/2026 10:34:37,16 
+Reply from 10.35.17.26: bytes=32 time=348ms TTL=127
+31/03/2026 10:35:37,11 
+Reply from 10.35.17.26: bytes=32 time=74ms TTL=127
+31/03/2026 10:36:37,13 
+Reply from 10.35.17.26: bytes=32 time=680ms TTL=127
+31/03/2026 10:37:37,20 
+Reply from 10.35.17.26: bytes=32 time=262ms TTL=127
+31/03/2026 10:38:37,17 
+Reply from 10.35.17.26: bytes=32 time=140ms TTL=127
+31/03/2026 10:39:37,16 
+Reply from 10.35.17.26: bytes=32 time=311ms TTL=127
+31/03/2026 10:40:37,21 
+Reply from 10.35.17.26: bytes=32 time=73ms TTL=127
+31/03/2026 10:41:37,20 
+Reply from 10.35.17.26: bytes=32 time=110ms TTL=127
+31/03/2026 10:42:37,13 
+Reply from 10.35.17.26: bytes=32 time=933ms TTL=127
+31/03/2026 10:43:38,12 
+Reply from 10.35.17.26: bytes=32 time=98ms TTL=127
+31/03/2026 10:44:38,14 
+31/03/2026 10:45:41,17 
+Reply from 10.35.17.26: bytes=32 time=2283ms TTL=127
+31/03/2026 10:46:43,17 
+31/03/2026 10:47:46,14 
+31/03/2026 10:48:49,12 
+31/03/2026 10:49:52,10 
+31/03/2026 10:50:55,22 
+31/03/2026 10:51:58,18 
+Reply from 10.35.17.26: bytes=32 time=1091ms TTL=127
+31/03/2026 10:52:59,22 
+Reply from 10.35.17.26: bytes=32 time=413ms TTL=127
+31/03/2026 10:53:59,14 
+Reply from 10.35.17.26: bytes=32 time=1668ms TTL=127
+31/03/2026 10:55:00,14 
+Reply from 10.35.17.26: bytes=32 time=3063ms TTL=127
+31/03/2026 10:56:03,21 
+Reply from 10.35.17.26: bytes=32 time=13ms TTL=127
+31/03/2026 10:57:03,19 
+Reply from 10.35.17.26: bytes=32 time=125ms TTL=127
+31/03/2026 10:58:03,17 
+Reply from 10.35.17.26: bytes=32 time=3505ms TTL=127
+31/03/2026 10:59:06,14 
+Reply from 10.35.17.26: bytes=32 time=992ms TTL=127
+31/03/2026 11:00:07,20 
+31/03/2026 11:01:10,12 
+31/03/2026 11:02:13,12 
+31/03/2026 11:03:16,17 
+Reply from 10.35.17.26: bytes=32 time=48ms TTL=127
+31/03/2026 11:04:16,15 
+Reply from 10.35.17.26: bytes=32 time=2437ms TTL=127
+31/03/2026 11:05:18,20 
+Reply from 10.35.17.26: bytes=32 time=13ms TTL=127
+31/03/2026 11:06:18,12 
+Reply from 10.35.17.26: bytes=32 time=1185ms TTL=127
+31/03/2026 11:07:19,13 
+Reply from 10.35.17.26: bytes=32 time=435ms TTL=127
+31/03/2026 11:08:19,12 
+Reply from 10.35.17.26: bytes=32 time=43ms TTL=127
+31/03/2026 11:09:19,19 
+Reply from 10.35.17.26: bytes=32 time=649ms TTL=127
+31/03/2026 11:10:19,13 
+Reply from 10.35.17.26: bytes=32 time=144ms TTL=127
+31/03/2026 11:11:19,15 
+Reply from 10.35.17.26: bytes=32 time=88ms TTL=127
+31/03/2026 11:12:19,15 
+Reply from 10.35.17.26: bytes=32 time=10ms TTL=127
+31/03/2026 11:13:19,19 
+Reply from 10.35.17.26: bytes=32 time=303ms TTL=127
+31/03/2026 11:14:19,12 
+Reply from 10.35.17.26: bytes=32 time=1164ms TTL=127
+31/03/2026 11:15:20,16 
+Reply from 10.35.17.26: bytes=32 time=210ms TTL=127
+31/03/2026 11:16:20,19 
+Reply from 10.35.17.26: bytes=32 time=35ms TTL=127
+31/03/2026 11:17:20,13 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+31/03/2026 11:18:20,13 
+Reply from 10.35.17.26: bytes=32 time=571ms TTL=127
+31/03/2026 11:19:20,15 
+Reply from 10.35.17.26: bytes=32 time=8ms TTL=127
+31/03/2026 11:20:20,17 
+Reply from 10.35.17.26: bytes=32 time=19ms TTL=127
+31/03/2026 11:21:20,16 
+31/03/2026 11:22:23,12 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+31/03/2026 11:23:23,17 
+Reply from 10.35.17.26: bytes=32 time=29ms TTL=127
+31/03/2026 11:24:23,18 
+Reply from 10.35.17.26: bytes=32 time=11ms TTL=127
+31/03/2026 11:25:23,19 
+Reply from 10.35.17.26: bytes=32 time=32ms TTL=127
+31/03/2026 11:26:23,23 
+Reply from 10.35.17.26: bytes=32 time=14ms TTL=127
+31/03/2026 11:27:23,13 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+31/03/2026 11:28:23,13 
+Reply from 10.35.17.26: bytes=32 time=80ms TTL=127
+31/03/2026 11:29:23,20 
+Reply from 10.35.17.26: bytes=32 time=11ms TTL=127
+31/03/2026 11:30:23,20 
+Reply from 10.35.17.26: bytes=32 time=13ms TTL=127
+31/03/2026 11:31:23,19 
+Reply from 10.35.17.26: bytes=32 time=16ms TTL=127
+31/03/2026 11:32:23,16 
+Reply from 10.35.17.26: bytes=32 time=18ms TTL=127
+31/03/2026 11:33:23,12 
+Reply from 10.35.17.26: bytes=32 time=16ms TTL=127
+31/03/2026 11:34:23,13 
+Reply from 10.35.17.26: bytes=32 time=15ms TTL=127
+31/03/2026 11:35:23,15 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+31/03/2026 11:36:23,16 
+Reply from 10.35.17.26: bytes=32 time=28ms TTL=127
+31/03/2026 11:37:23,16 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+31/03/2026 11:38:23,18 
+Reply from 10.35.17.26: bytes=32 time=21ms TTL=127
+31/03/2026 11:39:23,18 
+Reply from 10.35.17.26: bytes=32 time=106ms TTL=127
+31/03/2026 11:40:23,13 
+Reply from 10.35.17.26: bytes=32 time=11ms TTL=127
+31/03/2026 11:41:23,12 
+Reply from 10.35.17.26: bytes=32 time=23ms TTL=127
+31/03/2026 11:42:23,11 
+Reply from 10.35.17.26: bytes=32 time=22ms TTL=127
+31/03/2026 11:43:23,12 
+Reply from 10.35.17.26: bytes=32 time=14ms TTL=127
+31/03/2026 11:44:23,11 
+Reply from 10.35.17.26: bytes=32 time=21ms TTL=127
+31/03/2026 11:45:23,20 
+Reply from 10.35.17.26: bytes=32 time=11ms TTL=127
+31/03/2026 11:46:23,17 
+Reply from 10.35.17.26: bytes=32 time=307ms TTL=127
+31/03/2026 11:47:23,17 
+Reply from 10.35.17.26: bytes=32 time=8ms TTL=127
+31/03/2026 11:48:23,17 
+Reply from 10.35.17.26: bytes=32 time=17ms TTL=127
+31/03/2026 11:49:23,14 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+31/03/2026 11:50:23,15 
+Reply from 10.35.17.26: bytes=32 time=971ms TTL=127
+31/03/2026 11:51:24,14 
+Reply from 10.35.17.26: bytes=32 time=70ms TTL=127
+31/03/2026 11:52:24,13 
+Reply from 10.35.17.26: bytes=32 time=15ms TTL=127
+31/03/2026 11:53:24,15 
+Reply from 10.35.17.26: bytes=32 time=24ms TTL=127
+31/03/2026 11:54:24,15 
+Reply from 10.35.17.26: bytes=32 time=11ms TTL=127
+31/03/2026 11:55:24,18 
+Reply from 10.35.17.26: bytes=32 time=16ms TTL=127
+31/03/2026 11:56:24,17 
+Reply from 10.35.17.26: bytes=32 time=17ms TTL=127
+31/03/2026 11:57:24,19 
+Reply from 10.35.17.26: bytes=32 time=72ms TTL=127
+31/03/2026 11:58:24,14 
+Reply from 10.35.17.26: bytes=32 time=16ms TTL=127
+31/03/2026 11:59:24,19 
+Reply from 10.35.17.26: bytes=32 time=54ms TTL=127
+31/03/2026 12:00:24,15 
+Reply from 10.35.17.26: bytes=32 time=18ms TTL=127
+31/03/2026 12:01:24,14 
+Reply from 10.35.17.26: bytes=32 time=77ms TTL=127
+31/03/2026 12:02:24,18 
+Reply from 10.35.17.26: bytes=32 time=185ms TTL=127
+31/03/2026 12:03:24,12 
+Reply from 10.35.17.26: bytes=32 time=165ms TTL=127
+31/03/2026 12:04:24,16 
+Reply from 10.35.17.26: bytes=32 time=36ms TTL=127
+31/03/2026 12:05:24,17 
+Reply from 10.35.17.26: bytes=32 time=56ms TTL=127
+31/03/2026 12:06:24,15 
+Reply from 10.35.17.26: bytes=32 time=1635ms TTL=127
+31/03/2026 12:07:25,13 
+Reply from 10.35.17.26: bytes=32 time=18ms TTL=127
+31/03/2026 12:08:25,17 
+Reply from 10.35.17.26: bytes=32 time=268ms TTL=127
+31/03/2026 12:09:25,19 
+Reply from 10.35.17.26: bytes=32 time=204ms TTL=127
+31/03/2026 12:10:25,13 
+Reply from 10.35.17.26: bytes=32 time=179ms TTL=127
+31/03/2026 12:11:25,12 
+Reply from 10.35.17.26: bytes=32 time=33ms TTL=127
+31/03/2026 12:12:25,15 
+Reply from 10.35.17.26: bytes=32 time=13ms TTL=127
+31/03/2026 12:13:25,19 
+Reply from 10.35.17.26: bytes=32 time=18ms TTL=127
+31/03/2026 12:14:25,15 
+Reply from 10.35.17.26: bytes=32 time=13ms TTL=127
+31/03/2026 12:15:25,17 
+Reply from 10.35.17.26: bytes=32 time=10ms TTL=127
+31/03/2026 12:16:25,18 
+31/03/2026 12:17:28,18 
+Reply from 10.35.17.26: bytes=32 time=14ms TTL=127
+31/03/2026 12:18:28,12 
+Reply from 10.35.17.26: bytes=32 time=15ms TTL=127
+31/03/2026 12:19:28,13 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+31/03/2026 12:20:28,14 
+Reply from 10.35.17.26: bytes=32 time=37ms TTL=127
+31/03/2026 12:21:28,16 
+Reply from 10.35.17.26: bytes=32 time=13ms TTL=127
+31/03/2026 12:22:28,17 
+Reply from 10.35.17.26: bytes=32 time=11ms TTL=127
+31/03/2026 12:23:28,18 
+Reply from 10.35.17.26: bytes=32 time=553ms TTL=127
+31/03/2026 12:24:28,12 
+Reply from 10.35.17.26: bytes=32 time=29ms TTL=127
+31/03/2026 12:25:28,16 
+Reply from 10.35.17.26: bytes=32 time=123ms TTL=127
+31/03/2026 12:26:28,18 
+Reply from 10.35.17.26: bytes=32 time=39ms TTL=127
+31/03/2026 12:27:28,14 
+Reply from 10.35.17.26: bytes=32 time=103ms TTL=127
+31/03/2026 12:28:28,14 
+Reply from 10.35.17.26: bytes=32 time=22ms TTL=127
+31/03/2026 12:29:28,11 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+31/03/2026 12:30:28,13 
+Reply from 10.35.17.26: bytes=32 time=17ms TTL=127
+31/03/2026 12:31:28,15 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+31/03/2026 12:32:28,20 
+Reply from 10.35.17.26: bytes=32 time=13ms TTL=127
+31/03/2026 12:33:28,18 
+Reply from 10.35.17.26: bytes=32 time=45ms TTL=127
+31/03/2026 12:34:28,12 
+Reply from 10.35.17.26: bytes=32 time=16ms TTL=127
+31/03/2026 12:35:28,19 
+Reply from 10.35.17.26: bytes=32 time=99ms TTL=127
+31/03/2026 12:36:28,15 
+Reply from 10.35.17.26: bytes=32 time=16ms TTL=127
+31/03/2026 12:37:28,12 
+Reply from 10.35.17.26: bytes=32 time=13ms TTL=127
+31/03/2026 12:38:28,17 
+Reply from 10.35.17.26: bytes=32 time=11ms TTL=127
+31/03/2026 12:39:28,17 
+Reply from 10.35.17.26: bytes=32 time=15ms TTL=127
+31/03/2026 12:40:28,12 
+Reply from 10.35.17.26: bytes=32 time=20ms TTL=127
+31/03/2026 12:41:28,12 
+Reply from 10.35.17.26: bytes=32 time=179ms TTL=127
+31/03/2026 12:42:28,18 
+Reply from 10.35.17.26: bytes=32 time=47ms TTL=127
+31/03/2026 12:43:28,16 
+Reply from 10.35.17.26: bytes=32 time=79ms TTL=127
+31/03/2026 12:44:28,21 
+Reply from 10.35.17.26: bytes=32 time=17ms TTL=127
+31/03/2026 12:45:28,14 
+Reply from 10.35.17.26: bytes=32 time=64ms TTL=127
+31/03/2026 12:46:28,16 
+Reply from 10.35.17.26: bytes=32 time=11ms TTL=127
+31/03/2026 12:47:28,14 
+Reply from 10.35.17.26: bytes=32 time=14ms TTL=127
+31/03/2026 12:48:28,13 
+Reply from 10.35.17.26: bytes=32 time=18ms TTL=127
+31/03/2026 12:49:28,20 
+Reply from 10.35.17.26: bytes=32 time=42ms TTL=127
+31/03/2026 12:50:28,14 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+31/03/2026 12:51:28,13 
+Reply from 10.35.17.26: bytes=32 time=27ms TTL=127
+31/03/2026 12:52:28,21 
+Reply from 10.35.17.26: bytes=32 time=10ms TTL=127
+31/03/2026 12:53:28,20 
+Reply from 10.35.17.26: bytes=32 time=355ms TTL=127
+31/03/2026 12:54:28,17 
+Reply from 10.35.17.26: bytes=32 time=227ms TTL=127
+31/03/2026 12:55:28,15 
+Reply from 10.35.17.26: bytes=32 time=397ms TTL=127
+31/03/2026 12:56:28,11 
+Reply from 10.35.17.26: bytes=32 time=38ms TTL=127
+31/03/2026 12:57:28,16 
+Reply from 10.35.17.26: bytes=32 time=16ms TTL=127
+31/03/2026 12:58:28,14 
+Reply from 10.35.17.26: bytes=32 time=15ms TTL=127
+31/03/2026 12:59:28,13 
+Reply from 10.35.17.26: bytes=32 time=25ms TTL=127
+31/03/2026 13:00:28,13 
+Reply from 10.35.17.26: bytes=32 time=148ms TTL=127
+31/03/2026 13:01:28,21 
+Reply from 10.35.17.26: bytes=32 time=31ms TTL=127
+31/03/2026 13:02:28,12 
+31/03/2026 13:03:31,15 
+31/03/2026 13:04:34,22 
+Reply from 192.168.1.1: Destination net unreachable.
+31/03/2026 13:05:34,21 
+31/03/2026 13:06:37,18 
+Reply from 10.35.17.26: bytes=32 time=87ms TTL=127
+31/03/2026 13:07:37,12 
+Reply from 10.35.17.26: bytes=32 time=266ms TTL=127
+31/03/2026 13:08:37,13 
+Reply from 10.35.17.26: bytes=32 time=72ms TTL=127
+31/03/2026 13:09:37,12 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+31/03/2026 13:10:37,14 
+Reply from 10.35.17.26: bytes=32 time=243ms TTL=127
+31/03/2026 13:11:37,20 
+Reply from 10.35.17.26: bytes=32 time=63ms TTL=127
+31/03/2026 13:12:37,11 
+Reply from 10.35.17.26: bytes=32 time=21ms TTL=127
+31/03/2026 13:13:37,18 
+Reply from 10.35.17.26: bytes=32 time=41ms TTL=127
+31/03/2026 13:14:37,15 
+Reply from 10.35.17.26: bytes=32 time=14ms TTL=127
+01/04/2026  7:26:37,58 
+Reply from 10.35.17.26: bytes=32 time=62ms TTL=127
+01/04/2026  7:27:38,26 
+Reply from 10.35.17.26: bytes=32 time=329ms TTL=127
+01/04/2026  7:28:42,12 
+Reply from 10.35.17.26: bytes=32 time=90ms TTL=127
+01/04/2026  7:29:42,17 
+Reply from 10.35.17.26: bytes=32 time=26ms TTL=127
+01/04/2026  7:30:42,14 
+Reply from 10.35.17.26: bytes=32 time=202ms TTL=127
+01/04/2026  7:31:42,12 
+Reply from 10.35.17.26: bytes=32 time=144ms TTL=127
+01/04/2026  7:32:42,19 
+Reply from 10.35.17.26: bytes=32 time=228ms TTL=127
+01/04/2026  7:33:42,13 
+Reply from 10.35.17.26: bytes=32 time=77ms TTL=127
+01/04/2026  7:34:42,11 
+Reply from 10.35.17.26: bytes=32 time=2205ms TTL=127
+01/04/2026  7:35:44,19 
+Reply from 10.35.17.26: bytes=32 time=1436ms TTL=127
+01/04/2026  7:36:45,18 
+01/04/2026  7:37:48,21 
+01/04/2026  7:38:51,11 
+Reply from 10.35.17.26: bytes=32 time=427ms TTL=127
+01/04/2026  7:39:51,15 
+Reply from 10.35.17.26: bytes=32 time=161ms TTL=127
+01/04/2026  7:40:51,19 
+Reply from 10.35.17.26: bytes=32 time=128ms TTL=127
+01/04/2026  7:41:51,17 
+Reply from 10.35.17.26: bytes=32 time=171ms TTL=127
+01/04/2026  7:42:51,11 
+Reply from 10.35.17.26: bytes=32 time=199ms TTL=127
+01/04/2026  7:43:51,17 
+Reply from 10.35.17.26: bytes=32 time=273ms TTL=127
+01/04/2026  7:44:51,12 
+Reply from 10.35.17.26: bytes=32 time=131ms TTL=127
+01/04/2026  7:45:51,12 
+01/04/2026  7:46:54,20 
+Reply from 10.35.17.26: bytes=32 time=274ms TTL=127
+01/04/2026  7:47:54,16 
+Reply from 10.35.17.26: bytes=32 time=400ms TTL=127
+01/04/2026  7:48:54,12 
+Reply from 10.35.17.26: bytes=32 time=247ms TTL=127
+01/04/2026  7:49:54,18 
+Reply from 10.35.17.26: bytes=32 time=378ms TTL=127
+01/04/2026  7:50:54,16 
+Reply from 10.35.17.26: bytes=32 time=1355ms TTL=127
+01/04/2026  7:51:55,21 
+Reply from 10.35.17.26: bytes=32 time=127ms TTL=127
+01/04/2026  7:52:55,20 
+01/04/2026  7:53:58,12 
+Reply from 10.35.17.26: bytes=32 time=487ms TTL=127
+01/04/2026  7:54:58,17 
+Reply from 10.35.17.26: bytes=32 time=630ms TTL=127
+01/04/2026  7:55:58,21 
+Reply from 10.35.17.26: bytes=32 time=160ms TTL=127
+01/04/2026  7:56:58,13 
+Reply from 10.35.17.26: bytes=32 time=991ms TTL=127
+01/04/2026  7:57:59,16 
+Reply from 10.35.17.26: bytes=32 time=382ms TTL=127
+01/04/2026  7:58:59,17 
+Reply from 10.35.17.26: bytes=32 time=896ms TTL=127
+01/04/2026  8:00:00,16 
+Reply from 10.35.17.26: bytes=32 time=15ms TTL=127
+01/04/2026  8:01:00,11 
+Reply from 10.35.17.26: bytes=32 time=286ms TTL=127
+01/04/2026  8:02:00,13 
+Reply from 10.35.17.26: bytes=32 time=391ms TTL=127
+01/04/2026  8:03:00,13 
+01/04/2026  8:04:03,18 
+01/04/2026  8:05:06,21 
+Reply from 10.35.17.26: bytes=32 time=1511ms TTL=127
+01/04/2026  8:06:07,18 
+01/04/2026  8:07:10,14 
+Reply from 10.35.17.26: bytes=32 time=85ms TTL=127
+01/04/2026  8:08:10,15 
+Reply from 10.35.17.26: bytes=32 time=144ms TTL=127
+01/04/2026  8:09:10,12 
+Reply from 10.35.17.26: bytes=32 time=985ms TTL=127
+01/04/2026  8:10:11,15 
+01/04/2026  8:11:14,18 
+Reply from 10.35.17.26: bytes=32 time=183ms TTL=127
+01/04/2026  8:12:14,19 
+Reply from 10.35.17.26: bytes=32 time=588ms TTL=127
+01/04/2026  8:13:14,11 
+Reply from 10.35.17.26: bytes=32 time=255ms TTL=127
+01/04/2026  8:14:14,12 
+Reply from 10.35.17.26: bytes=32 time=310ms TTL=127
+01/04/2026  8:15:14,13 
+Reply from 10.35.17.26: bytes=32 time=798ms TTL=127
+01/04/2026  8:16:14,17 
+Reply from 10.35.17.26: bytes=32 time=100ms TTL=127
+01/04/2026  8:17:14,18 
+Reply from 10.35.17.26: bytes=32 time=875ms TTL=127
+01/04/2026  8:18:15,18 
+Reply from 10.35.17.26: bytes=32 time=689ms TTL=127
+01/04/2026  8:19:15,12 
+01/04/2026  8:20:18,12 
+Reply from 10.35.17.26: bytes=32 time=560ms TTL=127
+01/04/2026  8:21:18,18 
+01/04/2026  8:22:21,11 
+Reply from 10.35.17.26: bytes=32 time=147ms TTL=127
+01/04/2026  8:23:21,16 
+Reply from 10.35.17.26: bytes=32 time=70ms TTL=127
+01/04/2026  8:24:21,21 
+Reply from 10.35.17.26: bytes=32 time=153ms TTL=127
+01/04/2026  8:25:21,20 
+Reply from 10.35.17.26: bytes=32 time=984ms TTL=127
+01/04/2026  8:26:22,20 
+Reply from 10.35.17.26: bytes=32 time=203ms TTL=127
+01/04/2026  8:27:22,12 
+Reply from 10.35.17.26: bytes=32 time=75ms TTL=127
+01/04/2026  8:28:22,13 
+Reply from 10.35.17.26: bytes=32 time=1101ms TTL=127
+01/04/2026  8:29:23,21 
+Reply from 10.35.17.26: bytes=32 time=222ms TTL=127
+01/04/2026  8:30:23,14 
+Reply from 10.35.17.26: bytes=32 time=362ms TTL=127
+01/04/2026  8:31:23,11 
+Reply from 10.35.17.26: bytes=32 time=127ms TTL=127
+01/04/2026  8:32:23,19 
+01/04/2026  8:33:26,11 
+Reply from 10.35.17.26: bytes=32 time=456ms TTL=127
+01/04/2026  8:34:26,13 
+01/04/2026  8:35:29,17 
+Reply from 10.35.17.26: bytes=32 time=574ms TTL=127
+01/04/2026  8:36:29,21 
+Reply from 10.35.17.26: bytes=32 time=746ms TTL=127
+01/04/2026  8:37:30,14 
+Reply from 10.35.17.26: bytes=32 time=449ms TTL=127
+01/04/2026  8:38:30,14 
+01/04/2026  8:39:33,14 
+Reply from 10.35.17.26: bytes=32 time=750ms TTL=127
+01/04/2026  8:40:33,19 
+Reply from 10.35.17.26: bytes=32 time=2301ms TTL=127
+01/04/2026  8:41:35,14 
+01/04/2026  8:42:38,20 
+01/04/2026  8:43:41,21 
+01/04/2026  8:44:44,11 
+Reply from 10.35.17.26: bytes=32 time=1790ms TTL=127
+01/04/2026  8:45:45,17 
+Reply from 10.35.17.26: bytes=32 time=1238ms TTL=127
+01/04/2026  8:46:46,20 
+Reply from 10.35.17.26: bytes=32 time=185ms TTL=127
+01/04/2026  8:47:46,16 
+Reply from 10.35.17.26: bytes=32 time=3497ms TTL=127
+01/04/2026  8:48:49,13 
+01/04/2026  8:49:52,18 
+Reply from 10.35.17.26: bytes=32 time=38ms TTL=127
+01/04/2026  8:50:52,11 
+Reply from 10.35.17.26: bytes=32 time=766ms TTL=127
+01/04/2026  8:51:52,11 
+01/04/2026  8:52:55,19 
+Reply from 10.35.17.26: bytes=32 time=1833ms TTL=127
+01/04/2026  8:53:57,20 
+01/04/2026  8:55:00,15 
+01/04/2026  8:56:03,18 
+Reply from 10.35.17.26: bytes=32 time=3251ms TTL=127
+01/04/2026  8:57:06,16 
+01/04/2026  8:58:09,21 
+01/04/2026  8:59:12,22 
+01/04/2026  9:00:15,19 
+01/04/2026  9:01:18,22 
+01/04/2026  9:02:21,16 
+01/04/2026  9:03:24,15 
+01/04/2026  9:04:27,12 
+01/04/2026  9:05:30,18 
+01/04/2026  9:06:33,14 
+01/04/2026  9:07:36,21 
+01/04/2026  9:08:39,11 
+01/04/2026  9:09:42,15 
+01/04/2026  9:10:45,13 
+01/04/2026  9:11:48,17 
+01/04/2026  9:12:51,14 
+01/04/2026  9:13:54,16 
+Reply from 10.35.17.26: bytes=32 time=78ms TTL=127
+01/04/2026  9:14:54,14 
+Reply from 10.35.17.26: bytes=32 time=67ms TTL=127
+01/04/2026  9:15:54,11 
+Reply from 10.35.17.26: bytes=32 time=64ms TTL=127
+01/04/2026  9:16:54,14 
+Reply from 10.35.17.26: bytes=32 time=68ms TTL=127
+01/04/2026  9:17:54,13 
+Reply from 10.35.17.26: bytes=32 time=67ms TTL=127
+01/04/2026  9:18:54,13 
+Reply from 10.35.17.26: bytes=32 time=85ms TTL=127
+01/04/2026  9:19:54,14 
+Reply from 10.35.17.26: bytes=32 time=590ms TTL=127
+01/04/2026  9:20:54,20 
+Reply from 10.35.17.26: bytes=32 time=199ms TTL=127
+01/04/2026  9:21:54,12 
+Reply from 10.35.17.26: bytes=32 time=94ms TTL=127
+01/04/2026  9:22:54,21 
+Reply from 10.35.17.26: bytes=32 time=1076ms TTL=127
+01/04/2026  9:23:55,15 
+Reply from 10.35.17.26: bytes=32 time=69ms TTL=127
+01/04/2026  9:24:55,12 
+Reply from 10.35.17.26: bytes=32 time=61ms TTL=127
+01/04/2026  9:25:55,20 
+Reply from 10.35.17.26: bytes=32 time=56ms TTL=127
+01/04/2026  9:26:55,15 
+Reply from 10.35.17.26: bytes=32 time=71ms TTL=127
+01/04/2026  9:27:55,11 
+Reply from 10.35.17.26: bytes=32 time=113ms TTL=127
+01/04/2026  9:28:55,11 
+01/04/2026  9:29:58,21 
+01/04/2026  9:31:01,13 
+01/04/2026  9:32:04,14 
+01/04/2026  9:33:07,13 
+Reply from 10.35.17.26: bytes=32 time=426ms TTL=127
+01/04/2026  9:34:07,13 
+Reply from 10.35.17.26: bytes=32 time=2136ms TTL=127
+01/04/2026  9:35:09,12 
+Reply from 10.35.17.26: bytes=32 time=487ms TTL=127
+01/04/2026  9:36:09,17 
+01/04/2026  9:37:12,19 
+01/04/2026  9:38:15,20 
+01/04/2026  9:39:18,11 
+01/04/2026  9:40:21,19 
+01/04/2026  9:41:24,17 
+01/04/2026  9:42:27,19 
+Reply from 10.35.17.26: bytes=32 time=888ms TTL=127
+01/04/2026  9:43:28,14 
+Reply from 10.35.17.26: bytes=32 time=763ms TTL=127
+01/04/2026  9:44:28,11 
+01/04/2026  9:45:31,13 
+01/04/2026  9:46:34,15 
+01/04/2026  9:47:37,15 
+01/04/2026  9:48:40,21 
+01/04/2026  9:49:43,21 
+01/04/2026  9:50:46,14 
+Reply from 10.35.17.26: bytes=32 time=367ms TTL=127
+01/04/2026  9:51:46,17 
+01/04/2026  9:52:49,15 
+01/04/2026  9:53:52,16 
+01/04/2026  9:54:55,12 
+01/04/2026  9:55:58,20 
+01/04/2026  9:57:01,19 
+01/04/2026  9:58:04,16 
+Reply from 10.35.17.26: bytes=32 time=30ms TTL=127
+01/04/2026  9:59:04,12 
+Reply from 10.35.17.26: bytes=32 time=11ms TTL=127
+01/04/2026 10:00:04,20 
+01/04/2026 10:01:07,11 
+Reply from 10.35.17.26: bytes=32 time=1359ms TTL=127
+01/04/2026 10:02:08,12 
+Reply from 10.35.17.26: bytes=32 time=132ms TTL=127
+01/04/2026 10:03:08,17 
+Reply from 10.35.17.26: bytes=32 time=30ms TTL=127
+01/04/2026 10:04:08,18 
+Reply from 10.35.17.26: bytes=32 time=30ms TTL=127
+01/04/2026 10:05:11,21 
+Reply from 10.35.17.26: bytes=32 time=30ms TTL=127
+01/04/2026 10:06:14,15 
+Reply from 10.35.17.26: bytes=32 time=637ms TTL=127
+01/04/2026 10:07:14,22 
+01/04/2026 10:08:17,20 
+01/04/2026 10:09:20,19 
+Reply from 10.35.17.26: bytes=32 time=16ms TTL=127
+01/04/2026 10:10:20,15 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+01/04/2026 10:11:20,14 
+Reply from 10.35.17.26: bytes=32 time=2677ms TTL=127
+01/04/2026 10:12:22,14 
+Reply from 10.35.17.26: bytes=32 time=85ms TTL=127
+01/04/2026 10:13:22,11 
+Reply from 10.35.17.26: bytes=32 time=43ms TTL=127
+01/04/2026 10:14:22,13 
+Reply from 10.35.17.26: bytes=32 time=16ms TTL=127
+01/04/2026 10:15:22,18 
+Reply from 10.35.17.26: bytes=32 time=60ms TTL=127
+01/04/2026 10:16:22,17 
+Reply from 10.35.17.26: bytes=32 time=21ms TTL=127
+01/04/2026 10:17:22,12 
+Reply from 10.35.17.26: bytes=32 time=15ms TTL=127
+01/04/2026 10:18:22,13 
+Reply from 10.35.17.26: bytes=32 time=15ms TTL=127
+01/04/2026 10:19:22,22 
+Reply from 10.35.17.26: bytes=32 time=13ms TTL=127
+01/04/2026 10:20:22,15 
+Reply from 10.35.17.26: bytes=32 time=1804ms TTL=127
+01/04/2026 10:21:24,11 
+Reply from 10.35.17.26: bytes=32 time=210ms TTL=127
+01/04/2026 10:22:24,14 
+Reply from 10.35.17.26: bytes=32 time=16ms TTL=127
+01/04/2026 10:23:24,21 
+Reply from 10.35.17.26: bytes=32 time=16ms TTL=127
+01/04/2026 10:24:24,14 
+Reply from 10.35.17.26: bytes=32 time=16ms TTL=127
+01/04/2026 10:25:27,17 
+Reply from 10.35.17.26: bytes=32 time=16ms TTL=127
+01/04/2026 10:26:30,15 
+Reply from 10.35.17.26: bytes=32 time=16ms TTL=127
+01/04/2026 10:27:30,16 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+01/04/2026 10:28:30,17 
+Reply from 10.35.17.26: bytes=32 time=2336ms TTL=127
+01/04/2026 10:29:32,12 
+Reply from 10.35.17.26: bytes=32 time=34ms TTL=127
+01/04/2026 10:30:32,20 
+Reply from 10.35.17.26: bytes=32 time=106ms TTL=127
+01/04/2026 10:31:32,11 
+Reply from 10.35.17.26: bytes=32 time=24ms TTL=127
+01/04/2026 10:32:32,14 
+Reply from 10.35.17.26: bytes=32 time=59ms TTL=127
+01/04/2026 10:33:32,18 
+Reply from 10.35.17.26: bytes=32 time=60ms TTL=127
+01/04/2026 10:34:32,13 
+Reply from 10.35.17.26: bytes=32 time=18ms TTL=127
+01/04/2026 10:35:35,18 
+Reply from 10.35.17.26: bytes=32 time=18ms TTL=127
+01/04/2026 10:36:35,14 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+01/04/2026 10:37:35,19 
+Reply from 10.35.17.26: bytes=32 time=761ms TTL=127
+01/04/2026 10:38:36,14 
+Reply from 10.35.17.26: bytes=32 time=15ms TTL=127
+01/04/2026 10:39:36,17 
+Reply from 10.35.17.26: bytes=32 time=15ms TTL=127
+01/04/2026 10:40:39,13 
+Reply from 10.35.17.26: bytes=32 time=15ms TTL=127
+01/04/2026 10:41:42,14 
+Reply from 10.35.17.26: bytes=32 time=15ms TTL=127
+01/04/2026 10:42:45,16 
+Reply from 10.35.17.26: bytes=32 time=16ms TTL=127
+01/04/2026 10:43:45,13 
+Reply from 10.35.17.26: bytes=32 time=15ms TTL=127
+01/04/2026 10:44:48,20 
+Reply from 10.35.17.26: bytes=32 time=15ms TTL=127
+01/04/2026 10:45:51,16 
+Reply from 10.35.17.26: bytes=32 time=15ms TTL=127
+01/04/2026 10:46:51,19 
+Reply from 10.35.17.26: bytes=32 time=37ms TTL=127
+01/04/2026 10:47:54,13 
+Reply from 10.35.17.26: bytes=32 time=37ms TTL=127
+01/04/2026 10:48:54,18 
+Reply from 10.35.17.26: bytes=32 time=18ms TTL=127
+01/04/2026 10:49:54,21 
+Reply from 10.35.17.26: bytes=32 time=514ms TTL=127
+01/04/2026 10:50:54,14 
+Reply from 10.35.17.26: bytes=32 time=16ms TTL=127
+01/04/2026 10:51:54,18 
+Reply from 10.35.17.26: bytes=32 time=15ms TTL=127
+01/04/2026 10:52:54,15 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+01/04/2026 10:53:57,20 
+Reply from 10.35.17.26: bytes=32 time=13ms TTL=127
+01/04/2026 10:54:57,13 
+Reply from 10.35.17.26: bytes=32 time=2116ms TTL=127
+01/04/2026 10:55:59,16 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+01/04/2026 10:56:59,15 
+Reply from 10.35.17.26: bytes=32 time=14ms TTL=127
+01/04/2026 10:57:59,20 
+Reply from 10.35.17.26: bytes=32 time=10ms TTL=127
+01/04/2026 10:58:59,21 
+Reply from 10.35.17.26: bytes=32 time=26ms TTL=127
+01/04/2026 11:00:02,13 
+Reply from 10.35.17.26: bytes=32 time=26ms TTL=127
+01/04/2026 11:01:05,13 
+Reply from 10.35.17.26: bytes=32 time=200ms TTL=127
+01/04/2026 11:02:05,20 
+Reply from 10.35.17.26: bytes=32 time=26ms TTL=127
+01/04/2026 11:03:08,19 
+Reply from 10.35.17.26: bytes=32 time=26ms TTL=127
+01/04/2026 11:04:08,20 
+Reply from 10.35.17.26: bytes=32 time=21ms TTL=127
+01/04/2026 11:07:06,52 
+Reply from 10.35.17.26: bytes=32 time=195ms TTL=127
+01/04/2026 11:08:06,43 
+Reply from 10.35.17.26: bytes=32 time=154ms TTL=127
+01/04/2026 11:09:07,19 
+Reply from 10.35.17.26: bytes=32 time=87ms TTL=127
+01/04/2026 11:10:07,19 
+Reply from 10.35.17.26: bytes=32 time=21ms TTL=127
+01/04/2026 11:11:07,21 
+Reply from 10.35.17.26: bytes=32 time=281ms TTL=127
+01/04/2026 11:12:07,11 
+Reply from 10.35.17.26: bytes=32 time=11ms TTL=127
+01/04/2026 11:14:07,19 
+Reply from 10.35.17.26: bytes=32 time=411ms TTL=127
+01/04/2026 11:15:07,19 
+Reply from 10.35.17.26: bytes=32 time=16ms TTL=127
+01/04/2026 11:16:07,11 
+Reply from 10.35.17.26: bytes=32 time=954ms TTL=127
+01/04/2026 11:17:08,18 
+Reply from 10.35.17.26: bytes=32 time=308ms TTL=127
+01/04/2026 11:18:08,20 
+Reply from 10.35.17.26: bytes=32 time=14ms TTL=127
+01/04/2026 11:19:08,11 
+Reply from 10.35.17.26: bytes=32 time=589ms TTL=127
+01/04/2026 11:20:08,18 
+Reply from 10.35.17.26: bytes=32 time=217ms TTL=127
+01/04/2026 11:21:08,16 
+Reply from 10.35.17.26: bytes=32 time=150ms TTL=127
+01/04/2026 11:22:08,13 
+Reply from 10.35.17.26: bytes=32 time=29ms TTL=127
+01/04/2026 11:23:08,16 
+Reply from 10.35.17.26: bytes=32 time=36ms TTL=127
+01/04/2026 11:24:08,13 
+Reply from 10.35.17.26: bytes=32 time=15ms TTL=127
+01/04/2026 11:25:08,18 
+Reply from 10.35.17.26: bytes=32 time=18ms TTL=127
+01/04/2026 11:26:08,11 
+Reply from 10.35.17.26: bytes=32 time=18ms TTL=127
+01/04/2026 11:27:08,12 
+Reply from 10.35.17.26: bytes=32 time=14ms TTL=127
+01/04/2026 11:28:08,19 
+Reply from 10.35.17.26: bytes=32 time=22ms TTL=127
+01/04/2026 11:29:08,18 
+Reply from 10.35.17.26: bytes=32 time=17ms TTL=127
+01/04/2026 11:30:08,21 
+Reply from 10.35.17.26: bytes=32 time=16ms TTL=127
+01/04/2026 11:31:08,13 
+Reply from 10.35.17.26: bytes=32 time=40ms TTL=127
+01/04/2026 11:32:08,17 
+01/04/2026 11:33:11,18 
+Reply from 10.35.17.26: bytes=32 time=16ms TTL=127
+01/04/2026 11:34:11,21 
+Reply from 10.35.17.26: bytes=32 time=37ms TTL=127
+01/04/2026 11:35:11,13 
+Reply from 10.35.17.26: bytes=32 time=11ms TTL=127
+01/04/2026 11:36:11,19 
+Reply from 10.35.17.26: bytes=32 time=11ms TTL=127
+01/04/2026 11:37:11,18 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+01/04/2026 11:38:11,14 
+Reply from 10.35.17.26: bytes=32 time=28ms TTL=127
+01/04/2026 11:39:11,18 
+Reply from 10.35.17.26: bytes=32 time=23ms TTL=127
+01/04/2026 11:40:11,20 
+Reply from 10.35.17.26: bytes=32 time=92ms TTL=127
+01/04/2026 11:41:11,17 
+Reply from 10.35.17.26: bytes=32 time=15ms TTL=127
+01/04/2026 11:42:11,18 
+Reply from 10.35.17.26: bytes=32 time=11ms TTL=127
+01/04/2026 11:43:11,14 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+01/04/2026 11:44:11,17 
+Reply from 10.35.17.26: bytes=32 time=18ms TTL=127
+01/04/2026 11:45:11,19 
+Reply from 10.35.17.26: bytes=32 time=33ms TTL=127
+01/04/2026 11:46:11,19 
+Reply from 10.35.17.26: bytes=32 time=15ms TTL=127
+01/04/2026 11:47:11,16 
+Reply from 10.35.17.26: bytes=32 time=11ms TTL=127
+01/04/2026 11:48:11,15 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+01/04/2026 11:49:11,19 
+Reply from 10.35.17.26: bytes=32 time=14ms TTL=127
+01/04/2026 11:50:11,14 
+Reply from 10.35.17.26: bytes=32 time=11ms TTL=127
+01/04/2026 11:51:11,20 
+Reply from 10.35.17.26: bytes=32 time=28ms TTL=127
+01/04/2026 11:52:11,19 
+Reply from 10.35.17.26: bytes=32 time=18ms TTL=127
+01/04/2026 11:53:11,13 
+Reply from 10.35.17.26: bytes=32 time=22ms TTL=127
+01/04/2026 11:54:11,12 
+Reply from 10.35.17.26: bytes=32 time=164ms TTL=127
+01/04/2026 11:55:11,22 
+Reply from 10.35.17.26: bytes=32 time=22ms TTL=127
+01/04/2026 11:56:11,16 
+Reply from 10.35.17.26: bytes=32 time=13ms TTL=127
+01/04/2026 11:57:11,19 
+Reply from 10.35.17.26: bytes=32 time=21ms TTL=127
+01/04/2026 11:58:11,17 
+Reply from 10.35.17.26: bytes=32 time=11ms TTL=127
+01/04/2026 11:59:11,15 
+Reply from 10.35.17.26: bytes=32 time=22ms TTL=127
+01/04/2026 12:00:11,21 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+01/04/2026 12:01:11,12 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+01/04/2026 12:02:11,21 
+Reply from 10.35.17.26: bytes=32 time=21ms TTL=127
+01/04/2026 12:03:11,15 
+Reply from 10.35.17.26: bytes=32 time=16ms TTL=127
+01/04/2026 12:04:11,20 
+Reply from 10.35.17.26: bytes=32 time=10ms TTL=127
+01/04/2026 12:05:11,16 
+Reply from 10.35.17.26: bytes=32 time=25ms TTL=127
+01/04/2026 12:06:11,21 
+Reply from 10.35.17.26: bytes=32 time=11ms TTL=127
+01/04/2026 12:07:11,15 
+Reply from 10.35.17.26: bytes=32 time=11ms TTL=127
+01/04/2026 12:08:11,11 
+Reply from 10.35.17.26: bytes=32 time=16ms TTL=127
+01/04/2026 12:09:11,21 
+Reply from 10.35.17.26: bytes=32 time=11ms TTL=127
+01/04/2026 12:10:11,17 
+Reply from 10.35.17.26: bytes=32 time=16ms TTL=127
+01/04/2026 12:11:11,18 
+Reply from 10.35.17.26: bytes=32 time=82ms TTL=127
+01/04/2026 12:12:11,20 
+Reply from 10.35.17.26: bytes=32 time=28ms TTL=127
+01/04/2026 12:13:11,16 
+Reply from 10.35.17.26: bytes=32 time=15ms TTL=127
+01/04/2026 12:14:11,14 
+Reply from 10.35.17.26: bytes=32 time=15ms TTL=127
+01/04/2026 12:15:11,21 
+Reply from 10.35.17.26: bytes=32 time=21ms TTL=127
+01/04/2026 12:16:11,20 
+Reply from 10.35.17.26: bytes=32 time=14ms TTL=127
+01/04/2026 12:17:11,18 
+Reply from 10.35.17.26: bytes=32 time=14ms TTL=127
+01/04/2026 12:18:11,16 
+Reply from 10.35.17.26: bytes=32 time=10ms TTL=127
+01/04/2026 12:19:11,12 
+Reply from 10.35.17.26: bytes=32 time=30ms TTL=127
+01/04/2026 12:20:11,13 
+Reply from 10.35.17.26: bytes=32 time=11ms TTL=127
+01/04/2026 12:21:11,18 
+Reply from 10.35.17.26: bytes=32 time=14ms TTL=127
+01/04/2026 12:22:11,15 
+Reply from 10.35.17.26: bytes=32 time=11ms TTL=127
+01/04/2026 12:23:11,18 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+01/04/2026 12:24:11,15 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+01/04/2026 12:25:11,13 
+Reply from 10.35.17.26: bytes=32 time=620ms TTL=127
+01/04/2026 12:26:11,19 
+Reply from 10.35.17.26: bytes=32 time=42ms TTL=127
+01/04/2026 12:27:11,11 
+Reply from 10.35.17.26: bytes=32 time=16ms TTL=127
+01/04/2026 12:28:11,15 
+Reply from 10.35.17.26: bytes=32 time=15ms TTL=127
+01/04/2026 12:29:11,13 
+Reply from 10.35.17.26: bytes=32 time=13ms TTL=127
+01/04/2026 12:30:11,14 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+01/04/2026 12:31:11,17 
+Reply from 10.35.17.26: bytes=32 time=13ms TTL=127
+01/04/2026 12:32:11,14 
+Reply from 10.35.17.26: bytes=32 time=13ms TTL=127
+01/04/2026 12:33:11,11 
+Reply from 10.35.17.26: bytes=32 time=13ms TTL=127
+01/04/2026 12:34:11,18 
+Reply from 10.35.17.26: bytes=32 time=14ms TTL=127
+01/04/2026 12:35:11,13 
+Reply from 10.35.17.26: bytes=32 time=17ms TTL=127
+01/04/2026 12:36:11,16 
+Reply from 10.35.17.26: bytes=32 time=11ms TTL=127
+01/04/2026 12:37:11,16 
+Reply from 10.35.17.26: bytes=32 time=18ms TTL=127
+01/04/2026 12:38:11,19 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+01/04/2026 12:39:11,17 
+Reply from 10.35.17.26: bytes=32 time=13ms TTL=127
+01/04/2026 12:40:11,14 
+Reply from 10.35.17.26: bytes=32 time=15ms TTL=127
+01/04/2026 12:41:11,16 
+Reply from 10.35.17.26: bytes=32 time=15ms TTL=127
+01/04/2026 12:42:11,14 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+01/04/2026 12:43:11,18 
+Reply from 10.35.17.26: bytes=32 time=13ms TTL=127
+01/04/2026 12:44:11,11 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+01/04/2026 12:45:11,21 
+Reply from 10.35.17.26: bytes=32 time=14ms TTL=127
+01/04/2026 12:46:11,17 
+Reply from 10.35.17.26: bytes=32 time=11ms TTL=127
+01/04/2026 12:47:11,16 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+01/04/2026 12:48:11,21 
+Reply from 10.35.17.26: bytes=32 time=19ms TTL=127
+01/04/2026 12:49:11,18 
+Reply from 10.35.17.26: bytes=32 time=30ms TTL=127
+01/04/2026 12:50:11,18 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+01/04/2026 12:51:11,16 
+Reply from 10.35.17.26: bytes=32 time=9ms TTL=127
+01/04/2026 12:52:11,17 
+Reply from 10.35.17.26: bytes=32 time=14ms TTL=127
+01/04/2026 12:53:11,16 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+01/04/2026 12:54:11,13 
+Reply from 10.35.17.26: bytes=32 time=14ms TTL=127
+01/04/2026 12:55:11,17 
+Reply from 10.35.17.26: bytes=32 time=26ms TTL=127
+01/04/2026 12:56:11,19 
+Reply from 10.35.17.26: bytes=32 time=18ms TTL=127
+01/04/2026 12:57:11,12 
+Reply from 10.35.17.26: bytes=32 time=13ms TTL=127
+01/04/2026 12:58:11,11 
+Reply from 10.35.17.26: bytes=32 time=11ms TTL=127
+01/04/2026 12:59:11,11 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+01/04/2026 13:00:11,16 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+01/04/2026 13:01:11,11 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
+01/04/2026 13:02:11,13 
+Reply from 10.35.17.26: bytes=32 time=12ms TTL=127
