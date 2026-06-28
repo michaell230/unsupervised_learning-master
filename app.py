@@ -5,17 +5,63 @@ import plotly.express as px
 # Konfigurasi Halaman (Harus dilakukan pertama kali)
 st.set_page_config(page_title="Dashboard Jaringan SIAK", page_icon="📡", layout="wide")
 
+# Fungsi untuk menyematkan background image lokal
+import base64
+import os
+
+def set_bg_image():
+    bg_file = "backround.jpeg"
+    if os.path.exists(bg_file):
+        with open(bg_file, "rb") as f:
+            data = f.read()
+        bin_str = base64.b64encode(data).decode()
+        page_bg_img = f'''
+        <style>
+        .stApp {{
+            background-image: url("data:image/jpeg;base64,{bin_str}");
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+        }}
+        
+        /* Membuat container utama semi-transparan agar konten mudah dibaca */
+        [data-testid="stAppViewBlockContainer"] {{
+            background-color: rgba(255, 255, 255, 0.92);
+            padding: 2.5rem 3rem;
+            border-radius: 12px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+            margin-top: 1.5rem;
+            margin-bottom: 1.5rem;
+        }}
+        
+        /* Membuat sidebar semi-transparan */
+        [data-testid="stSidebar"] > div:first-child {{
+            background-color: rgba(240, 242, 246, 0.95);
+        }}
+        
+        /* Membuat stHeader (bagian atas) transparan */
+        [data-testid="stHeader"] {{
+            background: rgba(0, 0, 0, 0);
+        }}
+        </style>
+        '''
+        st.markdown(page_bg_img, unsafe_allow_html=True)
+
+# Panggil fungsi background
+set_bg_image()
+
 st.title("📡 Dashboard Stabilitas Jaringan Gateway Disdukcapil Jombang")
-st.markdown("Aplikasi web ini memantau secara interaktif riwayat kestabilan jaringan pada IP `10.35.17.26`.")
+st.markdown("Aplikasi web ini memantau secara interaktif riwayat kestabilan jaringan pada IP `1*.**.**.*6`.")
 
 # Load Data dengan Caching untuk optimasi
 @st.cache_data
 def load_data():
     # Load dataset hasil klasifikasi
-    df = pd.read_csv("Laporan_Stabilitas_Jaringan_SIAK.csv", sep=";")
+    df = pd.read_csv("Laporan_Stabilitas_Jaringan_SIAK.csv")
     
     # Konversi kolom timestamp agar format waktu dikenali oleh grafik
-    df['timestamp'] = pd.to_datetime(df['timestamp'], format="%d/%m/%Y %H:%M")
+    df['timestamp'] = pd.to_datetime(df['timestamp'])
     
     # Ekstrak tanggal (date) untuk filter sidebar
     df['date'] = df['timestamp'].dt.date
@@ -121,6 +167,22 @@ with col_bar:
         color_continuous_scale='Reds'
     )
     st.plotly_chart(fig_bar, use_container_width=True)
+
+st.markdown("---")
+st.subheader("⏱️ Median (Kondisi Tipikal Asli) Ping per Jam")
+st.markdown("Kalkulasi ini menggunakan **Median** (Nilai Tengah), bukan Rata-Rata biasa (Mean). Tujuannya agar hitungan **kebal terhadap anomali sesaat (Outlier)**. \n> *Kasus: Jika 5 menit ping lancar 20ms tapi ada satu detik melonjak 3000ms lalu normal lagi, maka hitungan Rata-Rata biasa akan bias menjadi seolah seluruh jamnya rusak. Dengan menggunakan Median, angkanya akan tetap jujur menjabarkan kondisi jaringan SIAK yang sebenarnya (berkisar 20ms).*")
+
+median_per_hour = df_filtered.groupby('hour')['ping_ms'].median().reset_index()
+
+fig_median_bar = px.bar(
+    median_per_hour,
+    x='hour',
+    y='ping_ms',
+    labels={'hour': 'Jam Operasional (24-H Format)', 'ping_ms': 'Median Latensi (Mili Detik)'},
+    color='ping_ms',
+    color_continuous_scale='Teal'
+)
+st.plotly_chart(fig_median_bar, use_container_width=True)
 
 st.markdown("---")
 st.subheader("📦 Distribusi Variasi Latensi (Ping) per Jam")
